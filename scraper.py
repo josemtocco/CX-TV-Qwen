@@ -133,11 +133,20 @@ def process_existing_channel(name, info):
 
 def generate_m3u8(state):
     lines = ["#EXTM3U"]
-    sorted_channels = sorted(state.values(), key=lambda x: (x["group"], x["name"]))
+    
+    # CORREÇÃO: Reconstrói a lista garantindo que a chave "name" exista dentro do dicionário
+    channels_list = []
+    for name, info in state.items():
+        info_dict = info.copy()
+        info_dict["name"] = name
+        channels_list.append(info_dict)
+        
+    # Ordena por grupo e depois por nome, usando .get() como proteção extra
+    sorted_channels = sorted(channels_list, key=lambda x: (x.get("group", "Geral"), x.get("name", "")))
     
     active_count = 0
     for ch in sorted_channels:
-        if not ch.get("is_active") or not ch.get("stream_url"):
+        if not ch.get("stream_url"):
             continue
             
         logo = ch.get("logo", "")
