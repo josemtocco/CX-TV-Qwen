@@ -1,10 +1,4 @@
 {
-  "Sony One Cinema": {
-    "stream_url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sony-one-cinema"
-  },
   "Record News": {
     "stream_url": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86600ed6f09e4bf48be4e55a0cd01536.webp",
@@ -17,11 +11,11 @@
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-classicos-do-cinema"
   },
-  "Retro Cartoon": {
-    "stream_url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp",
-    "group": "Desenhos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/retro-cartoon"
+  "Sony One Cinema": {
+    "stream_url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sony-one-cinema"
   },
   "Filmes Online": {
     "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
@@ -29,23 +23,11 @@
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/filmes-online"
   },
-  "TV Brasil": {
-    "stream_url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/041a53eb1b2c6c9d65151c102342544b.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-brasil"
-  },
-  "AWTV": {
-    "stream_url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/awcchannel"
-  },
-  "RedeTV!": {
-    "stream_url": "https://stream.esemrede.com.br/live/redetves.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-tv"
+  "Retro Cartoon": {
+    "stream_url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp",
+    "group": "Desenhos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/retro-cartoon"
   },
   "Rede Clouding TV": {
     "stream_url": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
@@ -53,23 +35,29 @@
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-clone"
   },
+  "RedeTV!": {
+    "stream_url": "https://stream.esemrede.com.br/live/redetves.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-tv"
+  },
+  "Rede Brasil de Televisão": {
+    "stream_url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-brasil-de-televisao-rbtv"
+  },
+  "AWTV": {
+    "stream_url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/awcchannel"
+  },
   "CazéTV": {
     "stream_url": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed777683fdb619972ae85298a4925b40.webp",
     "group": "Esportes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/caze-tv-br"
-  },
-  "Web Tv Cine": {
-    "stream_url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-cine"
-  },
-  "Runtime Ação": {
-    "stream_url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/runtime-acao"
   },
   "Tv Clássicos": {
     "stream_url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
@@ -82,6 +70,24 @@
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38cca32010062541d346871765a20c4a.webp",
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/multi-canais-aovivo"
+  },
+  "Web Tv Cine": {
+    "stream_url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-cine"
+  },
+  "TV Brasil": {
+    "stream_url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/041a53eb1b2c6c9d65151c102342544b.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-brasil"
+  },
+  "Runtime Ação": {
+    "stream_url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/runtime-acao"
   },
   "TV Jovem Pan News": {
     "stream_url": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8",
@@ -107,17 +113,17 @@
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/classique-tv"
   },
+  "TV Cultura": {
+    "stream_url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp",
+    "group": "Desenhos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cultura"
+  },
   "Tv Aracati HD": {
     "stream_url": "https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp",
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-aracati-hd"
-  },
-  "Tv Loading": {
-    "stream_url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-loading"
   },
   "Desenhos Clássicos TV": {
     "stream_url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8",
@@ -125,11 +131,11 @@
     "group": "Desenhos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/desenhos-classicos-tv"
   },
-  "Band News": {
-    "stream_url": "https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0edebf576e534ab8851f36176a129fcd.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/band-news"
+  "Tv Loading": {
+    "stream_url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-loading"
   },
   "Caravana Play": {
     "stream_url": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
@@ -137,17 +143,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/caravana-play"
   },
-  "TV Cultura": {
-    "stream_url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp",
-    "group": "Desenhos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cultura"
-  },
-  "TV Universal": {
-    "stream_url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c7cb5e3fd63664c893aeca217712b07.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/iurd-tv"
+  "Band News": {
+    "stream_url": "https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0edebf576e534ab8851f36176a129fcd.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/band-news"
   },
   "RIT TV": {
     "stream_url": "https://stream.ecast.com.br/rit-tv/index.m3u8",
@@ -161,23 +161,29 @@
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sbt-news"
   },
+  "TV Universal": {
+    "stream_url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c7cb5e3fd63664c893aeca217712b07.webp",
+    "group": "Evangélica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/iurd-tv"
+  },
   "CinePIX TV": {
     "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp",
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/cinepix-tv"
   },
-  "Moviesphere Brazil": {
-    "stream_url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2112f7942be7a7bf3f4b41e082cee2b8.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/moviesphere-brazil"
-  },
   "TV NBT": {
     "stream_url": "https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dee1243c933082ee25e309ab91b54f4d.webp",
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-nbt"
+  },
+  "Moviesphere Brazil": {
+    "stream_url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2112f7942be7a7bf3f4b41e082cee2b8.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/moviesphere-brazil"
   },
   "TV Latinasat": {
     "stream_url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
@@ -197,23 +203,17 @@
     "group": "Seriados",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/reviva-tv"
   },
-  "Lucas Tv": {
-    "stream_url": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/30b5156f5206356ea7e928eedcbc7667.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/lucas-tv"
-  },
   "TV Conquista (Rede Record)": {
     "stream_url": "https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2afc3b483887faa74817c62ee6b8d67.webp",
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-conquista-rede-record"
   },
-  "TV Aratu": {
-    "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/58ef6f711bd4731bc5f0095f223b0fe0.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-aratu-sbt-bahia"
+  "Lucas Tv": {
+    "stream_url": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/30b5156f5206356ea7e928eedcbc7667.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/lucas-tv"
   },
   "TV Igreja Mundial do Poder de Deus - IMPD TV": {
     "stream_url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
@@ -221,23 +221,17 @@
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-igreja-mundial-do-poder-de-deus"
   },
-  "RBATV (Band PA)": {
-    "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/df0c35517ab2f2e9e6e63c1808730694.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rbatv"
+  "TV Aratu": {
+    "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/58ef6f711bd4731bc5f0095f223b0fe0.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-aratu-sbt-bahia"
   },
   "Mega TV": {
     "stream_url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bd1d2e18c2e6c9ca027b4dc639b3b02.webp",
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/mega-tv"
-  },
-  "Nature Time Brasil": {
-    "stream_url": "https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/36b9a94ddc438e8487acba9bc7871adb.webp",
-    "group": "Documentários",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/nature-time-brasil"
   },
   "TV A Crítica": {
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8",
@@ -251,23 +245,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-vida"
   },
-  "Rede NGT": {
-    "stream_url": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6044f74f88a8d13430fb41e4caeca5f0.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-ngt"
-  },
-  "Web Tv Xtreme": {
-    "stream_url": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87464e2fb467b19b710aadb2da52725d.webp",
-    "group": "Desenhos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-xtreme"
-  },
-  "FilmRise Séries Gratuitas": {
-    "stream_url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889320",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d14f93731e74194bccfccf86df7e019f.webp",
-    "group": "Seriados",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/filmrise-series-gratuitas"
+  "Nature Time Brasil": {
+    "stream_url": "https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/36b9a94ddc438e8487acba9bc7871adb.webp",
+    "group": "Documentários",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/nature-time-brasil"
   },
   "GLN TV": {
     "stream_url": "https://stmv2.srvsh.com.br/gerson8874/gerson8874/playlist.m3u8",
@@ -275,17 +257,41 @@
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/gln-tv"
   },
+  "Top Tv": {
+    "stream_url": "https://isaocorp.cloudecast.com/toptv/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad098033466e6a8f12678abed2172f66.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/top-tv"
+  },
+  "FilmRise Séries Gratuitas": {
+    "stream_url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889320",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d14f93731e74194bccfccf86df7e019f.webp",
+    "group": "Seriados",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/filmrise-series-gratuitas"
+  },
+  "Rede NGT": {
+    "stream_url": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6044f74f88a8d13430fb41e4caeca5f0.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-ngt"
+  },
   "Gospel Cartoon": {
     "stream_url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f0a3c3c7b9a651e847d86dd71bbb5551.webp",
     "group": "Desenhos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/gospel-cartoon"
   },
-  "Top Tv": {
-    "stream_url": "https://isaocorp.cloudecast.com/toptv/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad098033466e6a8f12678abed2172f66.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/top-tv"
+  "TV ONE": {
+    "stream_url": "https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6d3c0b09c4da55520dde4ad36c1c3b5.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-one"
+  },
+  "TV CATVE (Cultura PR)": {
+    "stream_url": "https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/05a04d20468f33dcece26a290b7468d6.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-catve"
   },
   "Tela Brasil Tv": {
     "stream_url": "https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8",
@@ -305,17 +311,17 @@
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-carioca-net"
   },
-  "TV CATVE (Cultura PR)": {
-    "stream_url": "https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/05a04d20468f33dcece26a290b7468d6.webp",
+  "Tv Luzilândia": {
+    "stream_url": "https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e1b07d5e7f7527ec213b97d55987a14a.webp",
     "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-catve"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-luzilandia"
   },
-  "TV ONE": {
-    "stream_url": "https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6d3c0b09c4da55520dde4ad36c1c3b5.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-one"
+  "TV Pai Eterno": {
+    "stream_url": "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbcbd850001e26fc5a8e03f879749644.webp",
+    "group": "Católica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-pai-eterno"
   },
   "TV Rede Gospel": {
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
@@ -323,17 +329,11 @@
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-rede-gospel"
   },
-  "Tv Luzilândia": {
-    "stream_url": "https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e1b07d5e7f7527ec213b97d55987a14a.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-luzilandia"
-  },
-  "Tv Osório News": {
-    "stream_url": "https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/775a242222180d70569e85de9f007687.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-osorio-news"
+  "TV Sonata": {
+    "stream_url": "https://play.tvsonata.com.br/LiveApp/streams/tvsonata.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d4c57d1d109372f3fac1e91b0a0f7086.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sonata"
   },
   "Canal GOAT": {
     "stream_url": "https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8",
@@ -341,17 +341,11 @@
     "group": "Esportes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-goat"
   },
-  "TV Sonata": {
-    "stream_url": "https://play.tvsonata.com.br/LiveApp/streams/tvsonata.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d4c57d1d109372f3fac1e91b0a0f7086.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sonata"
-  },
-  "TV Pai Eterno": {
-    "stream_url": "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbcbd850001e26fc5a8e03f879749644.webp",
-    "group": "Católica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-pai-eterno"
+  "Tv Osório News": {
+    "stream_url": "https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/775a242222180d70569e85de9f007687.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-osorio-news"
   },
   "TV Metropole": {
     "stream_url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
@@ -365,17 +359,17 @@
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-super"
   },
-  "Tv Max 90": {
-    "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3ee991ca94a5ffc2c899ec9f62e5d58b.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-max-90"
-  },
   "Rede Mais Família": {
     "stream_url": "https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7bb03f2570993c82583a8ce9f2e1a4c4.webp",
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-mais-familia"
+  },
+  "Tv Max 90": {
+    "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3ee991ca94a5ffc2c899ec9f62e5d58b.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-max-90"
   },
   "CHANNEL 1": {
     "stream_url": "https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8",
@@ -383,11 +377,11 @@
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/channel-1"
   },
-  "ISTV": {
-    "stream_url": "https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/956249947191e0e94a5a4768b952d303.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/istv"
+  "Vintage Tv": {
+    "stream_url": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/vintage-tv"
   },
   "TV SÉCULO 21": {
     "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8",
@@ -395,53 +389,17 @@
     "group": "Católica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-seculo-21"
   },
+  "ISTV": {
+    "stream_url": "https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/956249947191e0e94a5a4768b952d303.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/istv"
+  },
   "ORTV Filmes e Variedades": {
     "stream_url": "https://tv.ortv.com.br/hls/stream.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45c64f0fcb64c6441c9d9ddff2671b23.webp",
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/ortv-filmes-e-variedades"
-  },
-  "Grjngo": {
-    "stream_url": "https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/grjngo"
-  },
-  "RS News Sports 5": {
-    "stream_url": "https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/702517cc49df69d1f090c7d5227c53ba.webp",
-    "group": "Esportes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rs-news-sports-5"
-  },
-  "TV Vila Real (Record MT)": {
-    "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bbcbd9c502664757184f48a121393d12.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-gazeta-mt-rede-record"
-  },
-  "Anime Channel": {
-    "stream_url": "https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/82f20da9a5abfbf7420a5058a7852cab.webp",
-    "group": "Desenhos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/anime-channel"
-  },
-  "Vintage Tv": {
-    "stream_url": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/vintage-tv"
-  },
-  "TV Brusque": {
-    "stream_url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2af74260c1c0377e7626a196192a5236.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-brusque"
-  },
-  "RedeTV Paraná": {
-    "stream_url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e77ec3ec8016c9fd59aead82a6eca6db.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/redetv-parana"
   },
   "Play TV": {
     "stream_url": "https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8",
@@ -449,11 +407,41 @@
     "group": "Desenhos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/play-tv"
   },
-  "TCM- TV Cabo Mossoró": {
-    "stream_url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af00a626f71e3a3dfadb5a5c8ffa086c.webp",
-    "group": "Cultura",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tcm-tv-cabo-mossoro"
+  "TV Vila Real (Record MT)": {
+    "stream_url": "https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bbcbd9c502664757184f48a121393d12.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-gazeta-mt-rede-record"
+  },
+  "RedeTV Paraná": {
+    "stream_url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e77ec3ec8016c9fd59aead82a6eca6db.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/redetv-parana"
+  },
+  "TV Brusque": {
+    "stream_url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2af74260c1c0377e7626a196192a5236.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-brusque"
+  },
+  "Anime Channel": {
+    "stream_url": "https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/82f20da9a5abfbf7420a5058a7852cab.webp",
+    "group": "Desenhos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/anime-channel"
+  },
+  "RS News Sports 5": {
+    "stream_url": "https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/702517cc49df69d1f090c7d5227c53ba.webp",
+    "group": "Esportes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rs-news-sports-5"
+  },
+  "Grjngo": {
+    "stream_url": "https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/grjngo"
   },
   "TV Evangelizar": {
     "stream_url": "https://df1.cdnsimba.com.br/bpk-tv/Df1_TVEVCTB2_HLS/hls/master.m3u8",
@@ -461,17 +449,17 @@
     "group": "Católica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-evangelizar"
   },
+  "TCM- TV Cabo Mossoró": {
+    "stream_url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af00a626f71e3a3dfadb5a5c8ffa086c.webp",
+    "group": "Cultura",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tcm-tv-cabo-mossoro"
+  },
   "Tv Manchete": {
     "stream_url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44fae4d3394877ed0880e78b4563450d.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-manchete"
-  },
-  "Tv Cidade Brasil": {
-    "stream_url": "https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbcbbc692ed0a16a020df7e0fd6816fa.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-alagoinha"
   },
   "Classique Tv Séries 1": {
     "stream_url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
@@ -479,11 +467,11 @@
     "group": "Seriados",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/classique-tv-series-1"
   },
-  "Unique Sports 1": {
-    "stream_url": "https://pop2.uniquetv.com.br/hls/uniquesports1.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47c3f8ec470d526c80efe89c8c095f8a.webp",
-    "group": "Esportes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/unique-sports-1"
+  "Tv Cidade Brasil": {
+    "stream_url": "https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbcbbc692ed0a16a020df7e0fd6816fa.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-alagoinha"
   },
   "RS Play TV": {
     "stream_url": "https://tv03.zas.media:1936/rsplay/rsplay/playlist.m3u8",
@@ -491,29 +479,23 @@
     "group": "Esportes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rs-play-tv"
   },
-  "TV Aparecida": {
-    "stream_url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/59185e7c084459e7a3d5d726f86aa2c7.webp",
-    "group": "Católica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-aparecida"
-  },
-  "Rede Minas": {
-    "stream_url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp",
-    "group": "Publicos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-minas"
-  },
   "Wording Tv": {
     "stream_url": "https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26abdb540125e646038f21b36e12639f.webp",
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/wording-tv"
   },
-  "TV Cidade Verde (SBT PI)": {
-    "stream_url": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bdb778b9b02a61d5c5ac3e5218957da8.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-verde-sbt-pi"
+  "TV Aparecida": {
+    "stream_url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/59185e7c084459e7a3d5d726f86aa2c7.webp",
+    "group": "Católica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-aparecida"
+  },
+  "Unique Sports 1": {
+    "stream_url": "https://pop2.uniquetv.com.br/hls/uniquesports1.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47c3f8ec470d526c80efe89c8c095f8a.webp",
+    "group": "Esportes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/unique-sports-1"
   },
   "Tv Padre Cicero": {
     "stream_url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
@@ -521,11 +503,29 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-padre-cicero"
   },
+  "Rede Minas": {
+    "stream_url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96ed4934fbcf5351314bfabfd78a976c.webp",
+    "group": "Publicos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-minas"
+  },
+  "TV Cidade Verde (SBT PI)": {
+    "stream_url": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bdb778b9b02a61d5c5ac3e5218957da8.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-verde-sbt-pi"
+  },
   "Sony One Shark Tank Brasil": {
     "stream_url": "https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d1ccb100fb163791ff314b91c0c3678f.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sony-one-shark-tank-brasil"
+  },
+  "TV Capital": {
+    "stream_url": "https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71b0f9abc764972773cad092b8610c03.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-capital"
   },
   "Tv Clube Web": {
     "stream_url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
@@ -539,11 +539,11 @@
     "group": "Cultura",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-parana-turismo"
   },
-  "TV Capital": {
-    "stream_url": "https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71b0f9abc764972773cad092b8610c03.webp",
+  "TVCI": {
+    "stream_url": "https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b68ceee26212c27dca7a885602969d9c.webp",
     "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-capital"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvci"
   },
   "TV Feliz": {
     "stream_url": "https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8",
@@ -557,23 +557,11 @@
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/runtime"
   },
-  "TVCI": {
-    "stream_url": "https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b68ceee26212c27dca7a885602969d9c.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvci"
-  },
   "Tv Templo": {
     "stream_url": "https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34525194fbe238dab8d29fd301d63212.webp",
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-templo"
-  },
-  "Tv Sepiol": {
-    "stream_url": "https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b20a1e33ee83dad97be518f188c831d8.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sepiol"
   },
   "Record News ES": {
     "stream_url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
@@ -587,23 +575,17 @@
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/gospel-movie-tv"
   },
+  "Tv Sepiol": {
+    "stream_url": "https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b20a1e33ee83dad97be518f188c831d8.webp",
+    "group": "Evangélica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sepiol"
+  },
   "TV Pampa (Rede TV RS)": {
     "stream_url": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/65d9059a562708573579342225f53e0b.webp",
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-pampa"
-  },
-  "Canal 2 - Tv Nova Juarez": {
-    "stream_url": "https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6040bb525a1603dc1ff55b66f733864e.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-2-tv-nova-juarez"
-  },
-  "TVE RS": {
-    "stream_url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb6da5dab7f3e21853e5719473fc29f0.webp",
-    "group": "Publicos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tve-rs"
   },
   "Mais TV": {
     "stream_url": "https://v2.cloudecast.com/maistv/index.m3u8",
@@ -611,17 +593,23 @@
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/mais-tv-sp"
   },
-  "TV MAX": {
-    "stream_url": "https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6aa0ad770325c0c0b656ab54716e542.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-max"
+  "Canal 2 - Tv Nova Juarez": {
+    "stream_url": "https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6040bb525a1603dc1ff55b66f733864e.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-2-tv-nova-juarez"
   },
   "Tv J.SID": {
     "stream_url": "https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0ab5f48ba024a538cd65fd54869ba8ac.webp",
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-j-sid"
+  },
+  "TV MAX": {
+    "stream_url": "https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6aa0ad770325c0c0b656ab54716e542.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-max"
   },
   "TV Tokyo": {
     "stream_url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8",
@@ -634,6 +622,12 @@
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/365cda8ce34a301e813ff056a9b626fe.webp",
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-clube-rn"
+  },
+  "TVM Pará": {
+    "stream_url": "https://video09.logicahost.com.br/tvmpara/tvmpara/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dbea108b094c01069ede2790a93b13dd.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvm-para"
   },
   "TV Brasil Internacional": {
     "stream_url": "https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8",
@@ -653,17 +647,11 @@
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sony-one-emocoes"
   },
-  "Trace Brazuca": {
-    "stream_url": "https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6983af07687a9604b1142c1967f5bcbc.webp",
-    "group": "Cultura",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/trace-brazuca"
-  },
-  "TVM Pará": {
-    "stream_url": "https://video09.logicahost.com.br/tvmpara/tvmpara/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dbea108b094c01069ede2790a93b13dd.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvm-para"
+  "Kpop TV Play": {
+    "stream_url": "https://cloud.tvomix.com/KPOPMIX/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/kpop-tv-play"
   },
   "TV Cidade Verde": {
     "stream_url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
@@ -671,11 +659,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-verde"
   },
-  "Kpop TV Play": {
-    "stream_url": "https://cloud.tvomix.com/KPOPMIX/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/kpop-tv-play"
+  "Trace Brazuca": {
+    "stream_url": "https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6983af07687a9604b1142c1967f5bcbc.webp",
+    "group": "Cultura",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/trace-brazuca"
   },
   "Runtime Crime": {
     "stream_url": "https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8",
@@ -701,17 +689,17 @@
     "group": "Educativos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/fonte-tv"
   },
-  "Geekdot": {
-    "stream_url": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38c67fdfc57a8a0087e02316d408473b.webp",
-    "group": "Desenhos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/geekdot-br"
-  },
   "SGC Tv - Rede TV Rondônia": {
     "stream_url": "https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8?",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/33e89f38ff6e8d852ccdc0302ecf0a6e.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-tv-rondonia"
+  },
+  "Geekdot": {
+    "stream_url": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38c67fdfc57a8a0087e02316d408473b.webp",
+    "group": "Desenhos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/geekdot-br"
   },
   "TV Nova Nordeste (Cultura PE)": {
     "stream_url": "https://stream.ecast.com.br/nova-tv/index.fmp4.m3u8",
@@ -719,17 +707,17 @@
     "group": "Educativos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-nova-nordeste"
   },
-  "Sbt Tailândia (Tv Guarajá)": {
-    "stream_url": "https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b273833114be40759348182b92d5195.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-guaraja-sbt"
-  },
   "Rede Meio Norte": {
     "stream_url": "https://isaocorp.cloudecast.com/redemeio/index.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b43005b199dfba9f79b51ce4398230df.webp",
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-meio-norte"
+  },
+  "Sbt Tailândia (Tv Guarajá)": {
+    "stream_url": "https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b273833114be40759348182b92d5195.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-guaraja-sbt"
   },
   "Redetv Mais": {
     "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
@@ -743,23 +731,17 @@
     "group": "Desenhos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/animax"
   },
-  "TV Pantanal MS": {
-    "stream_url": "https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aac6a1662ba8648e493485d6dc20faaf.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-pantanal"
-  },
   "SFT Combat": {
     "stream_url": "https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e52e4eb2683190b28d72dd3f8aeb35d1.webp",
     "group": "Esportes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sft-combat"
   },
-  "Sobrevivi": {
-    "stream_url": "https://amg00627-amg00627c75-amgplt0778.playout.now3.amagi.tv/1080p-por/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de79eaa6e6bc2730d5d8d444cc35f752.webp",
-    "group": "Documentários",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sobrevivi"
+  "Tv Horizonte": {
+    "stream_url": "https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4da6b42bfeb89ac05d8835cfa0f2e1ae.webp",
+    "group": "Católica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-horizonte"
   },
   "TV Aberta São Paulo": {
     "stream_url": "https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8",
@@ -767,11 +749,11 @@
     "group": "Cultura",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-aberta-sao-paulo"
   },
-  "Tv Horizonte": {
-    "stream_url": "https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4da6b42bfeb89ac05d8835cfa0f2e1ae.webp",
-    "group": "Católica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-horizonte"
+  "Tv Antena 10": {
+    "stream_url": "https://srt01.logicahost.com.br/a10mais/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a0a9b8035cb3fa0089ef9ba7322fcd5a.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-antena-10"
   },
   "TV MON": {
     "stream_url": "https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8",
@@ -785,23 +767,11 @@
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/run-time-comedia"
   },
-  "Tv Antena 10": {
-    "stream_url": "https://srt01.logicahost.com.br/a10mais/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a0a9b8035cb3fa0089ef9ba7322fcd5a.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-antena-10"
-  },
-  "TV Poços": {
-    "stream_url": "https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d68075bb4ed2f1d6007671fbc2756d91.webp",
-    "group": "Cultura",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-pocos"
-  },
-  "TV Diário Do Sertão": {
-    "stream_url": "https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/060dffc84216523aea0a7f765ec52285.webp",
-    "group": "Esportes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-diario-do-sertao"
+  "Sobrevivi": {
+    "stream_url": "https://amg00627-amg00627c75-amgplt0778.playout.now3.amagi.tv/1080p-por/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de79eaa6e6bc2730d5d8d444cc35f752.webp",
+    "group": "Documentários",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sobrevivi"
   },
   "TV Marajoara": {
     "stream_url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8",
@@ -809,11 +779,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-marajoara"
   },
-  "Runtime Família": {
-    "stream_url": "https://run-rufb.otteravision.com/run/rufb/rufb.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a81de2ad139464cf76f231a06ccb4b89.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/runtime-familia-pt"
+  "TV Diário Do Sertão": {
+    "stream_url": "https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/060dffc84216523aea0a7f765ec52285.webp",
+    "group": "Esportes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-diario-do-sertao"
   },
   "Tv O Povo": {
     "stream_url": "https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8",
@@ -821,11 +791,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-o-povo"
   },
-  "Gospel Music Television": {
-    "stream_url": "https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5cfae87cb8a191172ff08ff1b13c3c05.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/gospel-music-television"
+  "Runtime Família": {
+    "stream_url": "https://run-rufb.otteravision.com/run/rufb/rufb.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a81de2ad139464cf76f231a06ccb4b89.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/runtime-familia-pt"
+  },
+  "TV Poços": {
+    "stream_url": "https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d68075bb4ed2f1d6007671fbc2756d91.webp",
+    "group": "Cultura",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-pocos"
   },
   "RCTV Brasil": {
     "stream_url": "https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8",
@@ -833,23 +809,17 @@
     "group": "Desenhos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rctv-brasil"
   },
+  "Gospel Music Television": {
+    "stream_url": "https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5cfae87cb8a191172ff08ff1b13c3c05.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/gospel-music-television"
+  },
   "Amazon Sat": {
     "stream_url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2300eb25e4717c0ab191a457caa17b62.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/amazon-sat-amazonas"
-  },
-  "Tv Difusão": {
-    "stream_url": "https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71840aa01ff032646ae01b3bb3a3e9c1.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-difusao"
-  },
-  "REDE TV ES": {
-    "stream_url": "https://stream.esemrede.com.br/live/redetves.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-tv-es"
   },
   "Tv Arena Djs": {
     "stream_url": "https://stmv8.samcast.com.br/arenajs/arenajs/playlist.m3u8",
@@ -857,29 +827,29 @@
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-arena-djs"
   },
-  "Tv COM Brasil": {
-    "stream_url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/715b5339fc8e47b249dd28acd3ee19b0.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-com-brasil"
-  },
-  "RBTV": {
-    "stream_url": "https://redebrasileira.nuvemplay.live/hls/stream.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9a31008d8b875d89fe16b081fb0b513.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rbtv"
-  },
   "Tv Coop": {
     "stream_url": "https://stream01f.netpointcdn.com.br/tvcoopsc/aovivo/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b74c44a3e10aabf5c0d26b8308b6b1ee.webp",
     "group": "Agronegócio",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-coop"
   },
-  "TV Cidade 10": {
-    "stream_url": "https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa6e2cbbbdf0ce18e985a14919dce4c7.webp",
-    "group": "Esportes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-10"
+  "Tv COM Brasil": {
+    "stream_url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/715b5339fc8e47b249dd28acd3ee19b0.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-com-brasil"
+  },
+  "REDE TV ES": {
+    "stream_url": "https://stream.esemrede.com.br/live/redetves.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-tv-es"
+  },
+  "Tv Difusão": {
+    "stream_url": "https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71840aa01ff032646ae01b3bb3a3e9c1.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-difusao"
   },
   "TV Amplitude Juína (Record MT)": {
     "stream_url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8",
@@ -887,35 +857,23 @@
     "group": "Esportes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-amplitude-juina"
   },
+  "RBTV": {
+    "stream_url": "https://redebrasileira.nuvemplay.live/hls/stream.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9a31008d8b875d89fe16b081fb0b513.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rbtv"
+  },
+  "TV Cidade 10": {
+    "stream_url": "https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa6e2cbbbdf0ce18e985a14919dce4c7.webp",
+    "group": "Esportes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-10"
+  },
   "Tv Olho D'água": {
     "stream_url": "https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d31f1445df34f43d5c6ebe797fbff168.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-olho-dagua"
-  },
-  "TV Plan": {
-    "stream_url": "https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6704a428b4a888b334e8ab4a27ff66cf.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-plan"
-  },
-  "TV Gaúcha": {
-    "stream_url": "https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bc9a603f9b942e63419626cf1f98bea.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-gaucha"
-  },
-  "MyTime Movie Network - Brasil": {
-    "stream_url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f6652061e12b0246ef228236f06fa5f1.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/mytime-movie-network-brasil"
-  },
-  "TV Guará (Record News Maranhão)": {
-    "stream_url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc0dd9fa73b84728af28a25a7e8f60e2.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-guara-record-news"
   },
   "Tv Grande Natal": {
     "stream_url": "https://canalteste.duckdns.org:443/app/tvgrandenatalhdtv/llhls.m3u8",
@@ -923,17 +881,23 @@
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-grande-natal"
   },
+  "TV Gaúcha": {
+    "stream_url": "https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bc9a603f9b942e63419626cf1f98bea.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-gaucha"
+  },
+  "TV Guará (Record News Maranhão)": {
+    "stream_url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc0dd9fa73b84728af28a25a7e8f60e2.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-guara-record-news"
+  },
   "PUC TV": {
     "stream_url": "https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2e458318cc2e59266b35a20a154990f0.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/puc-tv-goias"
-  },
-  "RedeTv Tocantins": {
-    "stream_url": "https://5ad482a77183d.streamlock.net/administrativoredetvto.com.br/administrativoredetvto.com.br/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2c79fc304ff76d49891b2c7eff0099f1.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/redetv-tocantins"
   },
   "Nova Barreiros Web Tv": {
     "stream_url": "https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8",
@@ -941,11 +905,35 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/nova-barreiros-web-tv"
   },
+  "TV Plan": {
+    "stream_url": "https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6704a428b4a888b334e8ab4a27ff66cf.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-plan"
+  },
+  "MyTime Movie Network - Brasil": {
+    "stream_url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f6652061e12b0246ef228236f06fa5f1.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/mytime-movie-network-brasil"
+  },
+  "RedeTv Tocantins": {
+    "stream_url": "https://5ad482a77183d.streamlock.net/administrativoredetvto.com.br/administrativoredetvto.com.br/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2c79fc304ff76d49891b2c7eff0099f1.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/redetv-tocantins"
+  },
   "TV Aperipê (Cultura SE)": {
     "stream_url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8034fe53848334e1612e171ad08910d.webp",
     "group": "Educativos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-aperipe"
+  },
+  "TV Evangelizar Maringá": {
+    "stream_url": "https://df1.cdnsimba.com.br/bpk-tv/Df1_TVMaringa_HLS/hls/master.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95b87ff88cf146e5fac1f609cc0fa419.webp",
+    "group": "Católica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-evangelizar-maringa"
   },
   "Jetsons Tv": {
     "stream_url": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
@@ -953,11 +941,11 @@
     "group": "Desenhos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/jetsons-tv"
   },
-  "Giro TV News": {
-    "stream_url": "https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/64febaa2bf458ab08e49bc0147ae4d56.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/giro-tv-news"
+  "Tv Metropolitana Rio": {
+    "stream_url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2322d929ab7c617fbab73beb02b6d7f7.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-metropolitana-rio"
   },
   "Drive Channel Tv": {
     "stream_url": "https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8",
@@ -965,11 +953,23 @@
     "group": "Esportes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/drive-channel-tv"
   },
-  "Tv Metropolitana Rio": {
-    "stream_url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2322d929ab7c617fbab73beb02b6d7f7.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-metropolitana-rio"
+  "Giro TV News": {
+    "stream_url": "https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/64febaa2bf458ab08e49bc0147ae4d56.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/giro-tv-news"
+  },
+  "TV Verdes Campos Sat": {
+    "stream_url": "https://a.cdni.live/redeverdes2288/redeverdes2288/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8dae478045ac5204b7f91998806551fc.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-verdes-campos-sat"
+  },
+  "TV Câmara": {
+    "stream_url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c4d8bebf3f0b1e71c7b59c9fa0de78e.webp",
+    "group": "Publicos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-camara"
   },
   "MasterChef Brasil": {
     "stream_url": "https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8",
@@ -983,12 +983,6 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-com-santos"
   },
-  "TV Verdes Campos Sat": {
-    "stream_url": "https://a.cdni.live/redeverdes2288/redeverdes2288/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8dae478045ac5204b7f91998806551fc.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-verdes-campos-sat"
-  },
   "TV Candidés": {
     "stream_url": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f5f66db0430b6a9bb16cc342c2c50eac.webp",
@@ -1000,18 +994,6 @@
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/90fd77be7ec477a55e9955abb1859412.webp",
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-gov"
-  },
-  "TV Evangelizar Maringá": {
-    "stream_url": "https://df1.cdnsimba.com.br/bpk-tv/Df1_TVMaringa_HLS/hls/master.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95b87ff88cf146e5fac1f609cc0fa419.webp",
-    "group": "Católica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-evangelizar-maringa"
-  },
-  "TV Câmara": {
-    "stream_url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c4d8bebf3f0b1e71c7b59c9fa0de78e.webp",
-    "group": "Publicos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-camara"
   },
   "TV Diário Macapá": {
     "stream_url": "https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8",
@@ -1031,11 +1013,11 @@
     "group": "Católica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-imaculada-conceicao"
   },
-  "Canal Educação": {
-    "stream_url": "https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1800000=10000.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9555742ee550df88b88bf98f5967593c.webp",
-    "group": "Cultura",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-educacao"
+  "Runtime Romance": {
+    "stream_url": "https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1ea9adf10302b28a94cb0d0b88537f2f.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/runtime-romance"
   },
   "BDC TV (TV Á Crítica)": {
     "stream_url": "https://video01.brascast.com/bdctv/bdctv/playlist.m3u8",
@@ -1043,11 +1025,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/bdc-tv-tv-a-critica"
   },
-  "Runtime Romance": {
-    "stream_url": "https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1ea9adf10302b28a94cb0d0b88537f2f.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/runtime-romance"
+  "Canal Educação": {
+    "stream_url": "https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1800000=10000.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9555742ee550df88b88bf98f5967593c.webp",
+    "group": "Cultura",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-educacao"
   },
   "Unisul TV": {
     "stream_url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8",
@@ -1067,17 +1049,17 @@
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvc-para"
   },
-  "Rede Live TV": {
-    "stream_url": "https://stmv1.voxtvhd.com.br/tvrlt/tvrlt/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/999c52793648ce90e37a4427b221d4a7.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-live-tv"
-  },
   "TV Brasil Central (Tv Cultura Goias)": {
     "stream_url": "https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f803d116d416bb20cfeec57f48abde60.webp",
     "group": "Educativos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-brasil-central"
+  },
+  "Rede Live TV": {
+    "stream_url": "https://stmv1.voxtvhd.com.br/tvrlt/tvrlt/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/999c52793648ce90e37a4427b221d4a7.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-live-tv"
   },
   "RS News Sports 4": {
     "stream_url": "https://video03.logicahost.com.br/rssports4/rssports4/playlist.m3u8",
@@ -1085,29 +1067,23 @@
     "group": "Esportes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rs-news-sports-4"
   },
-  "Canal 21": {
-    "stream_url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a49ed969afb1090e69b831910bfb6b82.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-21-sp"
-  },
   "Ministério Infantil TV": {
     "stream_url": "https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b4cd2b4135c03b25ffe91155d90de53f.webp",
     "group": "Desenhos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/ministerio-infantil-tv"
   },
+  "Canal 21": {
+    "stream_url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a49ed969afb1090e69b831910bfb6b82.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-21-sp"
+  },
   "POA TV": {
     "stream_url": "https://stmv2.srvif.com/mm03132026/mm03132026/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/717a011b38d62ecc5ce8178246568d5b.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/poa-tv"
-  },
-  "RS SPORTS": {
-    "stream_url": "https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3536ac27ecdb70d527dc190433607e94.webp",
-    "group": "Futebol",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rs-news-web-tv"
   },
   "Rede Plenitude TV": {
     "stream_url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8",
@@ -1121,6 +1097,36 @@
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/mundo-tv"
   },
+  "RS SPORTS": {
+    "stream_url": "https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3536ac27ecdb70d527dc190433607e94.webp",
+    "group": "Esportes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rs-news-web-tv"
+  },
+  "Tv Gramado Net": {
+    "stream_url": "https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de754db3340e65438812a2a5999ad249.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-gramado-net"
+  },
+  "Cine Brasil": {
+    "stream_url": "https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ecc606f1cc8b333cb29b972cc2209475.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/cine-brasil"
+  },
+  "Viva Web Tv": {
+    "stream_url": "https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8936ceb865591bcc9ace180f253fc697.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/viva-web-tv"
+  },
+  "TV Câmara Caxias do Sul": {
+    "stream_url": "https://streaming.camaracaxias.rs.gov.br:8443/live/smil:multibitrate.smil/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5171a3f47071af6908fb943eb2971d40.webp",
+    "group": "Publicos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-camara-caxias-do-sul"
+  },
   "Receitas Fast": {
     "stream_url": "https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf58b076a0201cdc3d5e3d1212292ae7.webp",
@@ -1133,29 +1139,11 @@
     "group": "Desenhos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/conectv"
   },
-  "Cine Brasil": {
-    "stream_url": "https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ecc606f1cc8b333cb29b972cc2209475.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/cine-brasil"
-  },
-  "Tv Gramado Net": {
-    "stream_url": "https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de754db3340e65438812a2a5999ad249.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-gramado-net"
-  },
-  "Rede Boas Novas": {
-    "stream_url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef1e165d6e3dc7cb5fe6fdc193b9ef04.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-boas-novas"
-  },
-  "Viva Web Tv": {
-    "stream_url": "https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8936ceb865591bcc9ace180f253fc697.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/viva-web-tv"
+  "Educativa MS": {
+    "stream_url": "https://stream01.digilab.com.br/fertel/live/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34255e4a9cedfa6409ec5d3b4fb0d376.webp",
+    "group": "Educativos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tve-ms"
   },
   "Tv Mega Brasil": {
     "stream_url": "https://video01.brascast.com/sergio7305/sergio7305/playlist.m3u8",
@@ -1163,11 +1151,11 @@
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-mega-brasil"
   },
-  "TV Câmara Caxias do Sul": {
-    "stream_url": "https://streaming.camaracaxias.rs.gov.br:8443/live/smil:multibitrate.smil/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5171a3f47071af6908fb943eb2971d40.webp",
-    "group": "Publicos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-camara-caxias-do-sul"
+  "Rede Boas Novas": {
+    "stream_url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef1e165d6e3dc7cb5fe6fdc193b9ef04.webp",
+    "group": "Evangélica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-boas-novas"
   },
   "TV Novo Tempo": {
     "stream_url": "https://streamtv.novotempo.com/CDN-TV-PT/smil:tvnovotempo.smil/playlist.m3u8",
@@ -1175,11 +1163,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-novo-tempo"
   },
-  "Sertão TV": {
-    "stream_url": "https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c70c8f8099730a84bf271395381692e.webp",
+  "TV Gazeta Norte de Minas": {
+    "stream_url": "https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c4eda05073e29a566c79bfb71883acf.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sertao-tv"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-gazeta-norte-de-minas"
   },
   "TV Guará Caxias": {
     "stream_url": "https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8",
@@ -1187,17 +1175,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-guara-caxias"
   },
-  "TV Gazeta Norte de Minas": {
-    "stream_url": "https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c4eda05073e29a566c79bfb71883acf.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-gazeta-norte-de-minas"
-  },
   "Tv Mais Brasil": {
     "stream_url": "https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99952bc10e0b9a0eeb6f47cbf054a87e.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-mais-brasil"
+  },
+  "Nossa Tv (TV Cultura RN)": {
+    "stream_url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1da8fb88aef9df3483c940df68b87cf.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/nossa-tv-mossoro"
   },
   "ORTVWEB": {
     "stream_url": "https://tv.ortv.com.br/hls/stream.m3u8",
@@ -1211,29 +1199,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sictv-rede-record"
   },
-  "Nossa Tv (TV Cultura RN)": {
-    "stream_url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1da8fb88aef9df3483c940df68b87cf.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/nossa-tv-mossoro"
-  },
-  "O Dia Tv": {
-    "stream_url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2edfc8015ab176b68f0c4585aeda3569.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/o-dia-tv"
-  },
   "Masper TV": {
     "stream_url": "https://tv02.zas.media:1936/masper/masper/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e7b59f96b727d43a604c251ee93df7d6.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/masper-tv"
-  },
-  "TV Montanhesa": {
-    "stream_url": "https://qfm.sistemasgerais.com.br/hlsm/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d365417227e8d20195abd479d4094b3a.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-montanhesa"
   },
   "WSN TV do Carro": {
     "stream_url": "https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8",
@@ -1241,11 +1211,17 @@
     "group": "Televendas",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/wsn-tv-do-carro"
   },
-  "Tv São Raimundo": {
-    "stream_url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb1538f8a908c5aad023c2e87021d302.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sao-raimundo"
+  "O Dia Tv": {
+    "stream_url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2edfc8015ab176b68f0c4585aeda3569.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/o-dia-tv"
+  },
+  "TV Montanhesa": {
+    "stream_url": "https://qfm.sistemasgerais.com.br/hlsm/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d365417227e8d20195abd479d4094b3a.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-montanhesa"
   },
   "Rede QDM": {
     "stream_url": "https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8",
@@ -1253,11 +1229,11 @@
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-qdm"
   },
-  "TV SOL": {
-    "stream_url": "https://video05.logicahost.com.br/tvsol/tvsol/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sol"
+  "Vivax Tv": {
+    "stream_url": "https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/db5202e859e571d99d9e896f7fd3ad45.webp",
+    "group": "Agronegócio",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/vivax-tv"
   },
   "TV Capital Canal Promessas": {
     "stream_url": "https://video01.brascast.com/gente8322/gente8322/playlist.m3u8",
@@ -1265,17 +1241,23 @@
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-promessas"
   },
+  "TV SOL": {
+    "stream_url": "https://video05.logicahost.com.br/tvsol/tvsol/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/724e6dee71d557094e066a6b9855ca8f.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sol"
+  },
+  "Tv São Raimundo": {
+    "stream_url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb1538f8a908c5aad023c2e87021d302.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sao-raimundo"
+  },
   "Tv Mais News": {
     "stream_url": "https://video05.logicahost.com.br/tvmais01/tvmais01/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e3f60683aaa25e41f7c9b9a87f1bb20.webp",
     "group": "Educativos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-mais-news"
-  },
-  "Vivax Tv": {
-    "stream_url": "https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/db5202e859e571d99d9e896f7fd3ad45.webp",
-    "group": "Agronegócio",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/vivax-tv"
   },
   "TVC Panorama (Cultura SC)": {
     "stream_url": "https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8",
@@ -1295,6 +1277,12 @@
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cafe"
   },
+  "Rede Web TV - RWTV": {
+    "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/chunklist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c119d364762097294c3c58a30e1abb6b.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-web-tv-rwtv"
+  },
   "RS News Sports 3": {
     "stream_url": "https://video03.logicahost.com.br/rssports3/rssports3/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/040112c261dc78fa26fb245404d8f2e2.webp",
@@ -1307,23 +1295,17 @@
     "group": "Cultura",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/demais-tv"
   },
-  "TV Cidade Oeste": {
-    "stream_url": "https://video07.logicahost.com.br/tvcidadeoeste/tvcidadeoeste/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/88d1bef4ca8b751ad6f20d19230fd9b6.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-oeste"
-  },
-  "Rede Web TV - RWTV": {
-    "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/chunklist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c119d364762097294c3c58a30e1abb6b.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-web-tv-rwtv"
-  },
   "Tv Central do Brasil": {
     "stream_url": "https://stmv2.centralcast.com.br/central/central/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1b5d0e51aff223fdae319dfbeed2a023.webp",
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-central-do-brasil"
+  },
+  "TV Cidade Oeste": {
+    "stream_url": "https://video07.logicahost.com.br/tvcidadeoeste/tvcidadeoeste/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/88d1bef4ca8b751ad6f20d19230fd9b6.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-oeste"
   },
   "TV PBC": {
     "stream_url": "https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8",
@@ -1331,17 +1313,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-pbc"
   },
-  "Tv Assembléia Ceará": {
-    "stream_url": "https://streaming.viralmidia.com/hls/stream1/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b66659d34fed6a2d3d8e09213747ace.webp",
-    "group": "Publicos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-ceara"
-  },
   "TV Petrópolis": {
     "stream_url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a63097bcfe4786a82f447d9cadae57f.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-petropolis-de-televisao"
+  },
+  "RedeVida Caxias": {
+    "stream_url": "https://srv3.zcast.com.br/vidacaxias/vidacaxias/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8460a2dc1d7151ae5bf9ac7041b12b0.webp",
+    "group": "Católica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/redevida-caxias"
   },
   "TV Meio Norte Imperatriz": {
     "stream_url": "https://isaocorp.cloudecast.com/redemeio/index.m3u8",
@@ -1349,11 +1331,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-meio-norte-imperatriz"
   },
-  "RedeVida Caxias": {
-    "stream_url": "https://srv3.zcast.com.br/vidacaxias/vidacaxias/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8460a2dc1d7151ae5bf9ac7041b12b0.webp",
-    "group": "Católica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/redevida-caxias"
+  "KTV Brasil": {
+    "stream_url": "https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f926496dfcd35d60f7919e67a7211d43.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/ktv-brasil"
+  },
+  "Tv Sonora": {
+    "stream_url": "https://video01.brascast.com/xavier4499/xavier4499/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17a04dd675fb19365a3641baf35ab7e8.webp",
+    "group": "Evangélica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sonora"
   },
   "Sessão Trash": {
     "stream_url": "https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8",
@@ -1367,35 +1355,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-universo-tv"
   },
-  "KTV Brasil": {
-    "stream_url": "https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f926496dfcd35d60f7919e67a7211d43.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/ktv-brasil"
-  },
-  "TV Ouro Negro": {
-    "stream_url": "https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc56623a8cbf2f45d462cf93fc540de7.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-ouro-negro"
-  },
-  "Tv Sonora": {
-    "stream_url": "https://video01.brascast.com/xavier4499/xavier4499/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17a04dd675fb19365a3641baf35ab7e8.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sonora"
-  },
   "TVC 16 - Tv Cidade Petrópolis": {
     "stream_url": "https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/00bb19faeb0ea5b2ca8adcfcbaa1249c.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvc-16"
-  },
-  "Tv Nova Juarez": {
-    "stream_url": "https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/838a0792aa7247d0c98d2efe28dccf97.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-nova-juarez"
   },
   "TV Gazeta GO": {
     "stream_url": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
@@ -1403,11 +1367,23 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-gazeta-go"
   },
+  "TV Ouro Negro": {
+    "stream_url": "https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc56623a8cbf2f45d462cf93fc540de7.webp",
+    "group": "Evangélica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-ouro-negro"
+  },
   "BS TV": {
     "stream_url": "https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/82af6d676cbbc2cd8abafdb8348d8da3.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/bs-tv"
+  },
+  "Tv Nova Juarez": {
+    "stream_url": "https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/838a0792aa7247d0c98d2efe28dccf97.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-nova-juarez"
   },
   "Canal FDR": {
     "stream_url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8",
@@ -1415,17 +1391,11 @@
     "group": "Educativos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-fdr"
   },
-  "Tv InforBahia": {
-    "stream_url": "https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7d41953dd878461cb61f2ca52abc759.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-inforbahia"
-  },
-  "TV Teen Net": {
-    "stream_url": "https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1516ed8bc7c4e6c7586e26b97a4d0a02.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-teen-net"
+  "RTN TV": {
+    "stream_url": "https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce8f621678e717cabf4a5e8ee0f6ed70.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rtn-tv"
   },
   "ZOOM MUSIC": {
     "stream_url": "https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8",
@@ -1433,23 +1403,35 @@
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/zoom-music"
   },
+  "TV Teen Net": {
+    "stream_url": "https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1516ed8bc7c4e6c7586e26b97a4d0a02.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-teen-net"
+  },
+  "Tv InforBahia": {
+    "stream_url": "https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7d41953dd878461cb61f2ca52abc759.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-inforbahia"
+  },
+  "Sertão TV": {
+    "stream_url": "https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c70c8f8099730a84bf271395381692e.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sertao-tv"
+  },
+  "Livre TV": {
+    "stream_url": "https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a80e62c4aee6444ca7551dc6ebc79ad2.webp",
+    "group": "Esportes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/livre-tv"
+  },
   "Cariri TV": {
     "stream_url": "https://video05.logicahost.com.br/cariritv/cariritv/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e0e9f3651863af9eb56c9555a3b757f1.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/cariri-tv"
-  },
-  "RTN TV": {
-    "stream_url": "https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce8f621678e717cabf4a5e8ee0f6ed70.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rtn-tv"
-  },
-  "TV Sertão Petrolina": {
-    "stream_url": "https://video07.logicahost.com.br/sertaopetrolina/sertaopetrolina/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e0283ab6ed2fbdec30e5dc9dae5757a7.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sertao-petrolina"
   },
   "TV RBA": {
     "stream_url": "https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8",
@@ -1457,29 +1439,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-rba"
   },
-  "RS News Sports 2": {
-    "stream_url": "https://video03.logicahost.com.br/rssports2/rssports2/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/023fb82448a1908bef493877178d0de2.webp",
-    "group": "Futebol",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rs-news-web-tv-2"
-  },
-  "TV Rock": {
-    "stream_url": "https://video03.logicahost.com.br/tvrockhd/tvrockhd/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/924a95780d68bc853f7d1508593df1e7.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-rock"
-  },
   "Tv Goitacá": {
     "stream_url": "https://video01.brascast.com/david7639/david7639/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0faebfc67dcd27183439b63803a7b6a9.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-goitaca"
-  },
-  "TV Mar": {
-    "stream_url": "https://virtues.live:1936/tvmar/tvmar/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d6a5165349eb0211e6e4cbd9ae168b8.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-mar"
   },
   "Rede MultTV": {
     "stream_url": "https://stmv7.samcast.com.br/redemulttv/redemulttv/playlist.m3u8",
@@ -1487,23 +1451,47 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-multtv"
   },
+  "TV Sertão Petrolina": {
+    "stream_url": "https://video07.logicahost.com.br/sertaopetrolina/sertaopetrolina/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e0283ab6ed2fbdec30e5dc9dae5757a7.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sertao-petrolina"
+  },
+  "TV Rock": {
+    "stream_url": "https://video03.logicahost.com.br/tvrockhd/tvrockhd/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/924a95780d68bc853f7d1508593df1e7.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-rock"
+  },
+  "RS News Sports 2": {
+    "stream_url": "https://video03.logicahost.com.br/rssports2/rssports2/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/023fb82448a1908bef493877178d0de2.webp",
+    "group": "Futebol",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rs-news-web-tv-2"
+  },
+  "TV Mar": {
+    "stream_url": "https://virtues.live:1936/tvmar/tvmar/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d6a5165349eb0211e6e4cbd9ae168b8.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-mar"
+  },
   "Tv Mais MS": {
     "stream_url": "https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dac1c22593d80087e5b4714286ae6438.webp",
     "group": "Agronegócio",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-mais-ms"
   },
-  "Brasil Rural TV": {
-    "stream_url": "https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp",
-    "group": "Agronegócio",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/brasil-rural-tv"
-  },
   "Web Tv Escriba do Amapá": {
     "stream_url": "https://stmv1.voxtvhd.com.br/paulo2564/paulo2564/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c7c2b64597645408003c7ad408e23931.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-escriba-do-amapa"
+  },
+  "Brasil Rural TV": {
+    "stream_url": "https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp",
+    "group": "Agronegócio",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/brasil-rural-tv"
   },
   "Tv Novo Milênio": {
     "stream_url": "https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/playlist.m3u8",
@@ -1523,17 +1511,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-gallo"
   },
-  "TV Alternativa (Gazeta MA)": {
-    "stream_url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b06045459e9dd13f6615af8f1c755002.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-alternativa-gazeta-ma"
-  },
-  "AGITOMAX TV": {
-    "stream_url": "https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/414341d5a8c89cbcd4c0e5b620344099.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/agitomax-tv"
+  "Tv Adorando Jesus": {
+    "stream_url": "https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd959e5a2f2797240d8a08171c7db83f.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-adorando-jesus"
   },
   "Master TV": {
     "stream_url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8",
@@ -1541,11 +1523,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/master-tv"
   },
-  "Tv Adorando Jesus": {
-    "stream_url": "https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd959e5a2f2797240d8a08171c7db83f.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-adorando-jesus"
+  "AGITOMAX TV": {
+    "stream_url": "https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/414341d5a8c89cbcd4c0e5b620344099.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/agitomax-tv"
+  },
+  "TV Alternativa (Gazeta MA)": {
+    "stream_url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b06045459e9dd13f6615af8f1c755002.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-alternativa-gazeta-ma"
   },
   "Tv Foz - Colatina": {
     "stream_url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
@@ -1571,29 +1559,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-serra-es"
   },
-  "Betelhost Sertanejo": {
-    "stream_url": "https://srv3.zcast.com.br/betelhostbr/betelhostbr/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14f78c12455985e5cbf463c78890dfdb.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/betelhost-sertanejo"
-  },
-  "Imperial Tv (RedeTv)": {
-    "stream_url": "https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1eba7eb2bfa9b3a6b02d33e4365c2b74.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/imperial-tv-redetv"
-  },
   "Rede Web Tv": {
     "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/db3223cdf5f09d829140e2103a7eec58.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-web-tv"
   },
-  "Caravelas Tv": {
-    "stream_url": "https://stmv1.srvif.com/adeildsontv/adeildsontv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ad847eda1ae69d8bf5cc4d0e811fa2e.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/caravelas-tv"
+  "Betelhost Sertanejo": {
+    "stream_url": "https://srv3.zcast.com.br/betelhostbr/betelhostbr/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14f78c12455985e5cbf463c78890dfdb.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/betelhost-sertanejo"
   },
   "TV Mocinha": {
     "stream_url": "https://play.radio.br:8089/meninablulive/meninablulive/playlist.m3u8",
@@ -1601,17 +1577,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-mocinha"
   },
-  "TOP MIX TV": {
-    "stream_url": "https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8ab499d9cc282fd063424971ef738fec.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/top-mix-tv"
-  },
-  "TVR - Tv Regional Paulista": {
-    "stream_url": "https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c6caecb84bf23336169d45168c46e51.webp",
+  "Caravelas Tv": {
+    "stream_url": "https://stmv1.srvif.com/adeildsontv/adeildsontv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ad847eda1ae69d8bf5cc4d0e811fa2e.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvr-tv-regional-paulista"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/caravelas-tv"
   },
   "TV Serra Do Mar": {
     "stream_url": "https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8",
@@ -1619,23 +1589,41 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-serra-do-mar"
   },
+  "Imperial Tv (RedeTv)": {
+    "stream_url": "https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1eba7eb2bfa9b3a6b02d33e4365c2b74.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/imperial-tv-redetv"
+  },
+  "TVR - Tv Regional Paulista": {
+    "stream_url": "https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c6caecb84bf23336169d45168c46e51.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvr-tv-regional-paulista"
+  },
+  "TOP MIX TV": {
+    "stream_url": "https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8ab499d9cc282fd063424971ef738fec.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/top-mix-tv"
+  },
   "Tv Caravelas": {
     "stream_url": "https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/31b06827552515993ef20d5608ef5735.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-caravelas-bahia"
   },
-  "Tv Tudo Web": {
-    "stream_url": "https://stmv1.paineldevideo.com.br/jesiel/jesiel/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5180377e8b763646250cf46e0fb44975.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-tudo-web"
-  },
   "MBC Brasil": {
     "stream_url": "https://cdn.mbcbrasil.tv.br/mbc_web/index.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/723a081912cd82d9d130eb2b9515de68.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/mbc-brasil"
+  },
+  "Tv Tudo Web": {
+    "stream_url": "https://stmv1.paineldevideo.com.br/jesiel/jesiel/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5180377e8b763646250cf46e0fb44975.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-tudo-web"
   },
   "Semear Tv": {
     "stream_url": "https://5c483b9d1019c.streamlock.net/semeartv/semeartv/playlist.m3u8",
@@ -1649,18 +1637,6 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvc-tv-concordia"
   },
-  "TVídeoNews": {
-    "stream_url": "https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1992804748.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/58399bd0987147a2d4380e3a8cdbee1c.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvideonews"
-  },
-  "1980 Channel": {
-    "stream_url": "https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/1980-channel"
-  },
   "Tv Mix Belém 100.9 FM": {
     "stream_url": "https://tv02.zas.media:1936/mixbelem/mixbelem/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d816a0c1bc8706369b81d8a5fa2a80a6.webp",
@@ -1673,11 +1649,11 @@
     "group": "Culinária",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-bem-melhor"
   },
-  "TOP TV ON": {
-    "stream_url": "https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a5b0f6dc1764428e8e15280341a32663.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/top-tv-on"
+  "TVídeoNews": {
+    "stream_url": "https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1992804748.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/58399bd0987147a2d4380e3a8cdbee1c.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvideonews"
   },
   "Tastemade Brasil": {
     "stream_url": "https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8",
@@ -1691,17 +1667,17 @@
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-beltrao"
   },
+  "TOP TV ON": {
+    "stream_url": "https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a5b0f6dc1764428e8e15280341a32663.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/top-tv-on"
+  },
   "Araruna TV": {
     "stream_url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4d13eceb47629ad52c5517a5cbd9c57c.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/araruna-tv"
-  },
-  "TV Caruaru": {
-    "stream_url": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/000bc231c9fa000f01b251d77030e7a1.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-caruaru"
   },
   "Tv Aventura": {
     "stream_url": "https://stmv1.liveplushd.com.br/tvaventura/tvaventura/playlist.m3u8",
@@ -1709,23 +1685,17 @@
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-aventura"
   },
+  "TV Caruaru": {
+    "stream_url": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/000bc231c9fa000f01b251d77030e7a1.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-caruaru"
+  },
   "Bem Mais Tv": {
     "stream_url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6f9f86a3d4d01a4c3756ee01a7401ec6.webp",
     "group": "Publicos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/bem-mais-tv"
-  },
-  "Tv Santa": {
-    "stream_url": "https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa1544ed5fba6c87d30942a1669cd69f.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-santa"
-  },
-  "Livre TV": {
-    "stream_url": "https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a80e62c4aee6444ca7551dc6ebc79ad2.webp",
-    "group": "Esportes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/livre-tv"
   },
   "TV Guarapari": {
     "stream_url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8",
@@ -1733,17 +1703,17 @@
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-guarapari"
   },
+  "Tv Santa": {
+    "stream_url": "https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa1544ed5fba6c87d30942a1669cd69f.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-santa"
+  },
   "Web Tv Alternativa": {
     "stream_url": "https://video04.logicahost.com.br/webtvalternativa/webtvalternativa/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/61759992b087916c9403330b8c7136cd.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-alternativa"
-  },
-  "CBTV": {
-    "stream_url": "https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47ec12d09f350909715c17ac45ba6139.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/cbtv-ceara"
   },
   "Super Marajoara 89,9 FM": {
     "stream_url": "https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8",
@@ -1751,23 +1721,23 @@
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/super-marajoara"
   },
-  "Tv Maná Brasil": {
-    "stream_url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9d0ffdf71124f0531b3531c7c82caf03.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-mana-brasil"
-  },
   "Tv Adorador Gospel": {
     "stream_url": "https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c50659beeacb05f3655fabb042cd8331.webp",
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-adorador-gospel"
   },
-  "Tv Jampa Jovens": {
-    "stream_url": "https://srv1.zcast.com.br/anderson7754/anderson7754/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c514330e45c94d17fb9ccebef491a523.webp",
-    "group": "Educativos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-jampa-jovens"
+  "Tv Maná Brasil": {
+    "stream_url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9d0ffdf71124f0531b3531c7c82caf03.webp",
+    "group": "Evangélica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-mana-brasil"
+  },
+  "CBTV": {
+    "stream_url": "https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47ec12d09f350909715c17ac45ba6139.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/cbtv-ceara"
   },
   "Canal Solo Fértil": {
     "stream_url": "https://stream.canalsolofertil.com.br/live/canalsolofertil/index.m3u8",
@@ -1775,17 +1745,23 @@
     "group": "Agronegócio",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-solo-fertil"
   },
+  "Tv Rádio Litoral": {
+    "stream_url": "https://video08.logicahost.com.br/tvradiolitoral/tvradiolitoral/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34afdf0657bf5883ad46b496fadd2541.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-radio-litoral"
+  },
   "Top Mix Tv Filmes": {
     "stream_url": "https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c2756e6ae8adbd01291e9c5dda56f0e3.webp",
     "group": "Filmes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/top-mix-tv-filmes"
   },
-  "Tv Rádio Litoral": {
-    "stream_url": "https://video08.logicahost.com.br/tvradiolitoral/tvradiolitoral/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34afdf0657bf5883ad46b496fadd2541.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-radio-litoral"
+  "Tv Jampa Jovens": {
+    "stream_url": "https://srv1.zcast.com.br/anderson7754/anderson7754/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c514330e45c94d17fb9ccebef491a523.webp",
+    "group": "Educativos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-jampa-jovens"
   },
   "Rede Virtual TV": {
     "stream_url": "https://video03.logicahost.com.br/redevirtualtv/redevirtualtv/playlist.m3u8",
@@ -1799,11 +1775,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-amplitude-juara"
   },
-  "TV Cidade": {
-    "stream_url": "https://stream.ichibansys.com:3230/stream/play.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9c63a7714ea03a6148ed31e959a23d53.webp",
+  "Tv Ondas Play": {
+    "stream_url": "https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8604dd12ac3e6121259668128132f5ff.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-rio"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-ondas-de-marica"
   },
   "TV Web Maanaim": {
     "stream_url": "https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8",
@@ -1811,11 +1787,11 @@
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-web-maanaim"
   },
-  "Tv Ondas Play": {
-    "stream_url": "https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8604dd12ac3e6121259668128132f5ff.webp",
+  "TV Pantanal": {
+    "stream_url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w1595845833.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d2475c2c97a49f21a5db5b40763d85d8.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-ondas-de-marica"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-pantanal-cuiaba"
   },
   "Tv Caravelas Ipatinga": {
     "stream_url": "https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/playlist.m3u8",
@@ -1835,12 +1811,6 @@
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-foz-sao-mateus"
   },
-  "TV Pantanal": {
-    "stream_url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w1595845833.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d2475c2c97a49f21a5db5b40763d85d8.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-pantanal-cuiaba"
-  },
   "RTV Canal 38": {
     "stream_url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7fac3844403ac236f8d09e0f3097cb79.webp",
@@ -1852,12 +1822,6 @@
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87a0c97a33fb00caf61c6a5e293c3c10.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-da-cidade"
-  },
-  "Tv Avivando Nações": {
-    "stream_url": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0579c7a5ad75d73104244131bfb40921.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-avivando-nacoes"
   },
   "Seven Tv": {
     "stream_url": "https://stmv1.srvif.com/seventv/seventv/playlist.m3u8",
@@ -1883,6 +1847,12 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-plug"
   },
+  "Tv Avivando Nações": {
+    "stream_url": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0579c7a5ad75d73104244131bfb40921.webp",
+    "group": "Evangélica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-avivando-nacoes"
+  },
   "TV Precabura": {
     "stream_url": "https://srv2.zcast.com.br/tvprecabura/tvprecabura/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec495bc0859187ccc51edb8eb39a9faa.webp",
@@ -1894,12 +1864,6 @@
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38625bf93125111e4b587ef5ff9a5dbb.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/vrt-channel"
-  },
-  "TV Gideões": {
-    "stream_url": "https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f6171c551bfebb0226b4f7d526a8e6f.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-gideoes"
   },
   "Via Morena": {
     "stream_url": "https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8",
@@ -1913,53 +1877,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/ja-viu-tv"
   },
-  "CMD TV": {
-    "stream_url": "https://stmv2.samcast.com.br/cmdtv/cmdtv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/63f284143f9cc4b9f045911e38f18fcb.webp",
-    "group": "Televendas",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/cmd-tv-sp"
-  },
-  "TV Assembléia Goiás": {
-    "stream_url": "https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37b2eb3496342c646e32f138270b76ca.webp",
-    "group": "Publicos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-goias"
-  },
   "TV Andradas": {
     "stream_url": "https://spectra.axonglobal.io/start/ax_antv_o8ja/llhls.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/848620a8501524bae8e9b694017395d3.webp",
     "group": "Educativos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-andradas"
   },
-  "Nova Tv Agrotour": {
-    "stream_url": "https://stmv3.liveplushd.com.br/tvnovaagrotour/tvnovaagrotour/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2401b9fcc6879683bccf4cb0a434013b.webp",
-    "group": "Cultura",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-web-agrotour"
-  },
-  "CHD TV": {
-    "stream_url": "https://stmv3.liveplushd.com.br/chdtv/chdtv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b262194bf406086ba514e985d07ec88c.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/chd-tv"
-  },
-  "Canal Show Da Fé": {
-    "stream_url": "https://acesso.ecast.site:3648/live/ritlive.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/204c513dc50ab7dd6d0b70e790cd075f.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/show-da-fe"
-  },
-  "TVC Ourinhos": {
-    "stream_url": "https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de686c104e47164ada190ac1ea2ab2a5.webp",
-    "group": "Cultura",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvc-ourinhos"
-  },
-  "Tv Centro Sul": {
-    "stream_url": "https://5c483b9d1019c.streamlock.net/tvcentrosul/tvcentrosul/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c0ec00ce28d7569714d1872af6245dc5.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-centro-sul"
+  "CMD TV": {
+    "stream_url": "https://stmv2.samcast.com.br/cmdtv/cmdtv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/63f284143f9cc4b9f045911e38f18fcb.webp",
+    "group": "Televendas",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/cmd-tv-sp"
   },
   "TV Alese": {
     "stream_url": "https://tvalese.al.se.leg.br/hls/tvalese/1_2/index.m3u8?tkn=3146238362",
@@ -1967,11 +1895,41 @@
     "group": "Publicos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-alese"
   },
-  "Tv Assembléia MT": {
-    "stream_url": "https://owncast.al.mt.gov.br/hls/stream.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40226217d9d69dba6953ac4b752d26e8.webp",
+  "TV Assembléia Goiás": {
+    "stream_url": "https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37b2eb3496342c646e32f138270b76ca.webp",
     "group": "Publicos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-mt"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-goias"
+  },
+  "Canal Show Da Fé": {
+    "stream_url": "https://acesso.ecast.site:3648/live/ritlive.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/204c513dc50ab7dd6d0b70e790cd075f.webp",
+    "group": "Evangélica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/show-da-fe"
+  },
+  "Nova Tv Agrotour": {
+    "stream_url": "https://stmv3.liveplushd.com.br/tvnovaagrotour/tvnovaagrotour/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2401b9fcc6879683bccf4cb0a434013b.webp",
+    "group": "Cultura",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-web-agrotour"
+  },
+  "TVC Ourinhos": {
+    "stream_url": "https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de686c104e47164ada190ac1ea2ab2a5.webp",
+    "group": "Cultura",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvc-ourinhos"
+  },
+  "CHD TV": {
+    "stream_url": "https://stmv3.liveplushd.com.br/chdtv/chdtv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b262194bf406086ba514e985d07ec88c.webp",
+    "group": "Evangélica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/chd-tv"
+  },
+  "Tv Centro Sul": {
+    "stream_url": "https://5c483b9d1019c.streamlock.net/tvcentrosul/tvcentrosul/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c0ec00ce28d7569714d1872af6245dc5.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-centro-sul"
   },
   "Lavras Ce Tv Web": {
     "stream_url": "https://stmv1.srvif.com/lavrastv/lavrastv/playlist.m3u8",
@@ -1979,11 +1937,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/lavras-ce-tv-web"
   },
-  "TOP MIX TV 2": {
-    "stream_url": "https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e5dd8729025d5eb431c8a3128716032.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/top-mix-tv-2"
+  "Tv Assembléia MT": {
+    "stream_url": "https://owncast.al.mt.gov.br/hls/stream.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40226217d9d69dba6953ac4b752d26e8.webp",
+    "group": "Publicos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-mt"
+  },
+  "Tv Extremo Oriental": {
+    "stream_url": "https://video05.logicahost.com.br/extremotv/extremotv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af6889de04c0610177c5bb253bd9fac9.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-extremo-oriental"
   },
   "W1 Web Tv": {
     "stream_url": "https://stmv5.samcast.com.br/oscarwagnerdesouza1083/oscarwagnerdesouza1083/playlist.m3u8",
@@ -1991,11 +1955,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/w1-web-tv"
   },
-  "TV Curuça": {
-    "stream_url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/beaa1d89838a77d51155ce6b0b6b4f47.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-curuca"
+  "TOP MIX TV 2": {
+    "stream_url": "https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e5dd8729025d5eb431c8a3128716032.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/top-mix-tv-2"
   },
   "TV Guarulhos": {
     "stream_url": "https://br5093.streamingdevideo.com.br/tvguarulhos/tvguarulhos/playlist.m3u8",
@@ -2003,17 +1967,23 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-guarulhos"
   },
+  "TV Curuça": {
+    "stream_url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/beaa1d89838a77d51155ce6b0b6b4f47.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-curuca"
+  },
+  "MJR TV": {
+    "stream_url": "https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/539a50bf16a5e19dc492427033484915.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/mjr-tv"
+  },
   "TV A Folha (TVA)": {
     "stream_url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b3ab9881916a5409bbb42b796c5666d4.webp",
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-a-folha-tva"
-  },
-  "Yeeaah! TV": {
-    "stream_url": "https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/09f64a3c475cfe34a670c37e6b0c724f.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/yeeah-tv"
   },
   "TV Maceió": {
     "stream_url": "https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8",
@@ -2021,11 +1991,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-maceio"
   },
-  "MJR TV": {
-    "stream_url": "https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/539a50bf16a5e19dc492427033484915.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/mjr-tv"
+  "1001 Noites": {
+    "stream_url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/75828f2964798b219021e4f44c3edb58.webp",
+    "group": "Televendas",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/1001-noites"
+  },
+  "Yeeaah! TV": {
+    "stream_url": "https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/09f64a3c475cfe34a670c37e6b0c724f.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/yeeah-tv"
   },
   "Polidoro TV": {
     "stream_url": "https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
@@ -2039,12 +2015,6 @@
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-boqueirao"
   },
-  "1001 Noites": {
-    "stream_url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/75828f2964798b219021e4f44c3edb58.webp",
-    "group": "Televendas",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/1001-noites"
-  },
   "Alternativa Web Tv Ivaí": {
     "stream_url": "https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e134a59abd63476de1b308c959542330.webp",
@@ -2057,6 +2027,12 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-ponta-verde"
   },
+  "TV Galega": {
+    "stream_url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f646a47b2fdb3e3bbc441492cde15544.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-galega"
+  },
   "Assim é Portugal Tv": {
     "stream_url": "https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f56f3131705a25c9cf2d36f50b56b703.webp",
@@ -2068,12 +2044,6 @@
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/948916b3cd4e9c10e59cf2e76fb4d1a9.webp",
     "group": "Esportes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-show-de-bola"
-  },
-  "TV Galega": {
-    "stream_url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f646a47b2fdb3e3bbc441492cde15544.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-galega"
   },
   "Despertar Tv": {
     "stream_url": "https://br.conectmy.com.br/DespertarTV/video.m3u8",
@@ -2093,23 +2063,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-rio-madeira"
   },
-  "Creative TV Brasil": {
-    "stream_url": "https://v01.taaqui.org/creativetvbrasil/creativetvbrasil/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8674f46e91ae306b34b9e5861d4d7a89.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/creative-tv-brasil"
-  },
-  "Tv Balneário Camboriú": {
-    "stream_url": "https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e82a5959990934b415cc6e156dcdca50.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-balneario-camboriu"
-  },
   "TVE Ponta Grossa": {
     "stream_url": "https://live01-pgz.cdn.uepg.br/hls/stream.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da2de44e3352e21b54fad7bd68de498d.webp",
     "group": "Cultura",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/etv-tv-educativa"
+  },
+  "Creative TV Brasil": {
+    "stream_url": "https://v01.taaqui.org/creativetvbrasil/creativetvbrasil/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8674f46e91ae306b34b9e5861d4d7a89.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/creative-tv-brasil"
   },
   "TV Master": {
     "stream_url": "https://a.cdni.live/tvmaster/tvmaster/playlist.m3u8",
@@ -2141,12 +2105,6 @@
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-mundial-interteve"
   },
-  "TV Marrecas": {
-    "stream_url": "https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9e26fafa15d370f5e796254bed2af08a.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-marrecas"
-  },
   "TV Alfenas": {
     "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15327/playlist/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34f7a7a7d4b7571121b23db0cffd0b93.webp",
@@ -2159,11 +2117,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-litoral-rs"
   },
-  "Tv Assembléia RN": {
-    "stream_url": "https://video01.logicahost.com.br/assembleiarn/assembleiarn/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739315b5e91f4f7ed1b1f94147ba1369.webp",
-    "group": "Publicos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-rn"
+  "TV Marrecas": {
+    "stream_url": "https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9e26fafa15d370f5e796254bed2af08a.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-marrecas"
   },
   "Tv Clic Brasil": {
     "stream_url": "https://video09.logicahost.com.br/tvclicbrasil/tvclicbrasil/playlist.m3u8",
@@ -2171,17 +2129,29 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-clic-brasil"
   },
+  "Tv Assembléia RN": {
+    "stream_url": "https://video01.logicahost.com.br/assembleiarn/assembleiarn/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739315b5e91f4f7ed1b1f94147ba1369.webp",
+    "group": "Publicos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-rn"
+  },
   "Tv Opção": {
     "stream_url": "https://stmv8.samcast.com.br/tvopcao/tvopcao/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c5821f37b7c34b76529c85902cbf6322.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-opcao"
   },
-  "Tv Extremo Oriental": {
-    "stream_url": "https://video05.logicahost.com.br/extremotv/extremotv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af6889de04c0610177c5bb253bd9fac9.webp",
+  "Tv Pop Brasil": {
+    "stream_url": "https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7504cda1699120216982a5b487a3fb3e.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-extremo-oriental"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-pop-brasil"
+  },
+  "TV Câmara de João Pessoa": {
+    "stream_url": "https://video05.logicahost.com.br/camarajp/camarajp/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/110dc69961f53b604896728c8b491152.webp",
+    "group": "Publicos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-camara-de-joao-pessoa"
   },
   "UMA TV": {
     "stream_url": "https://umatv.nuvemplay.live/hls/stream.m3u8",
@@ -2195,11 +2165,11 @@
     "group": "Educativos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/guia-tv"
   },
-  "Tv Pop Brasil": {
-    "stream_url": "https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7504cda1699120216982a5b487a3fb3e.webp",
+  "TV Altiora": {
+    "stream_url": "https://video01.brascast.com/jonas2239/jonas2239/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1a84cc19a0726828478ab6bfd33ea08c.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-pop-brasil"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-altiora"
   },
   "Tv GRU Web": {
     "stream_url": "https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8",
@@ -2207,29 +2177,23 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-gru-web"
   },
-  "TV Altiora": {
-    "stream_url": "https://video01.brascast.com/jonas2239/jonas2239/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1a84cc19a0726828478ab6bfd33ea08c.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-altiora"
-  },
   "TV SDB": {
     "stream_url": "https://5c483b9d1019c.streamlock.net/tvserradosbrindes/tvserradosbrindes/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ca34efac059ef73b4ab2d90322fc32d1.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sdb"
   },
-  "Toon Goggles em português": {
-    "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=274",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/472dd450bc628e36434b6c599e6cb664.webp",
-    "group": "Desenhos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/toon-goggles-em-portugues"
-  },
   "Blink 102 FM": {
     "stream_url": "https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/704fb67933b948110831556fde0ad9f8.webp",
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/blink-102-fm"
+  },
+  "Toon Goggles em português": {
+    "stream_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=274",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/472dd450bc628e36434b6c599e6cb664.webp",
+    "group": "Desenhos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/toon-goggles-em-portugues"
   },
   "Tv Mais Maricá": {
     "stream_url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
@@ -2249,23 +2213,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-itaipuacu-web"
   },
-  "Web Tv Cidade Janauba": {
-    "stream_url": "https://video01.brascast.com/joao5713/joao5713/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17d246e2303389e356149c2a91069711.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-cidade-janauba"
-  },
   "TV Ecovale": {
     "stream_url": "https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e70c975e99231b8099ca4746ee95def4.webp",
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-ecovale"
   },
-  "Foz Tv": {
-    "stream_url": "https://videostreamingserver.septecloud.com.br/memfs/6154fa08-b4c2-4e8f-aba8-1c5a38399d47.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d3e46253b41c7f5e76f31ca2444ac516.webp",
+  "Web Tv Cidade Janauba": {
+    "stream_url": "https://video01.brascast.com/joao5713/joao5713/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17d246e2303389e356149c2a91069711.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/foz-tv"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-cidade-janauba"
   },
   "Web Tv Paracatu": {
     "stream_url": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
@@ -2279,23 +2237,35 @@
     "group": "Educativos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-preve"
   },
+  "Foz Tv": {
+    "stream_url": "https://videostreamingserver.septecloud.com.br/memfs/6154fa08-b4c2-4e8f-aba8-1c5a38399d47.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d3e46253b41c7f5e76f31ca2444ac516.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/foz-tv"
+  },
   "Tv Rio Preto": {
     "stream_url": "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4e069194b899c6a290cd99c0f823a6a0.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-rio-preto"
   },
-  "Tv Cidade Canal 9": {
-    "stream_url": "https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc7938ed99be1d6dd528f8919ade2962.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-canal-9"
-  },
   "Rede TVS": {
     "stream_url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/19868f0ce8a6e3387639550a0b07e5a4.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-tvs"
+  },
+  "Tv Portalweb": {
+    "stream_url": "https://stmv.webtvninjas.com.br/tvportalweb/tvportalweb/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3453d744a350672e45c8346231b87f0f.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-portalweb"
+  },
+  "Tv Cidade Canal 9": {
+    "stream_url": "https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc7938ed99be1d6dd528f8919ade2962.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-canal-9"
   },
   "Tv Pajeú": {
     "stream_url": "https://video05.logicahost.com.br/tvpajeu/tvpajeu/playlist.m3u8",
@@ -2315,11 +2285,11 @@
     "group": "Educativos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-unisantos"
   },
-  "Diário TV": {
-    "stream_url": "https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a562be4cb4a7cd4c7cac16bc02ef336a.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/diario-tv"
+  "Adesso Tv": {
+    "stream_url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/59113e5d8158d08327897fe8cd93394b.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/adesso-tv"
   },
   "TV CN AGITOS": {
     "stream_url": "https://s1.tvr.ovh/cnagitos/cnagitos/playlist.m3u8",
@@ -2327,23 +2297,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cn-agitos"
   },
-  "Tv Portalweb": {
-    "stream_url": "https://stmv.webtvninjas.com.br/tvportalweb/tvportalweb/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3453d744a350672e45c8346231b87f0f.webp",
+  "Diário TV": {
+    "stream_url": "https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a562be4cb4a7cd4c7cac16bc02ef336a.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-portalweb"
-  },
-  "PBN TV WEB": {
-    "stream_url": "https://stmv8.samcast.com.br/marcospaulo5102/marcospaulo5102/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9cc16ab753344a47af906d4868b8fa9a.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/pbn-tv-web"
-  },
-  "Adesso Tv": {
-    "stream_url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/59113e5d8158d08327897fe8cd93394b.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/adesso-tv"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/diario-tv"
   },
   "TV Judaica": {
     "stream_url": "https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8",
@@ -2357,29 +2315,35 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-nbn"
   },
-  "FUEL TV Brasil": {
-    "stream_url": "https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe1baa41af31c250cbd15b75dc047abd.webp",
-    "group": "Esportes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/fuel-tv-brasil"
-  },
-  "Racer Brasil": {
-    "stream_url": "https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a3de0566d21144720dd6ff508fab108.webp",
-    "group": "Esportes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/racer-brasil"
-  },
   "Tv Otimista": {
     "stream_url": "https://5a7bcfb834237.directradios.net/otimista/livestream/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4e0a4eca82d32a2d828245fa0b881df6.webp",
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-otimista"
   },
+  "PBN TV WEB": {
+    "stream_url": "https://stmv8.samcast.com.br/marcospaulo5102/marcospaulo5102/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9cc16ab753344a47af906d4868b8fa9a.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/pbn-tv-web"
+  },
+  "FUEL TV Brasil": {
+    "stream_url": "https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe1baa41af31c250cbd15b75dc047abd.webp",
+    "group": "Esportes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/fuel-tv-brasil"
+  },
   "Tv Camara de Mogi Das Cruzes": {
     "stream_url": "https://tv02.zas.media:1936/cmmc/cmmc/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/167fb2c4fe0c7401c3f26447702b2730.webp",
     "group": "Publicos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-camara-de-mogi-das-cruzes"
+  },
+  "Racer Brasil": {
+    "stream_url": "https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a3de0566d21144720dd6ff508fab108.webp",
+    "group": "Esportes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/racer-brasil"
   },
   "TV COM Maceió": {
     "stream_url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8",
@@ -2399,6 +2363,12 @@
     "group": "Católica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/paroquia-sao-joao-batista"
   },
+  "Radio Esportes Brasília": {
+    "stream_url": "https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed25aae6cd1cd562aff84aaaa01d6784.webp",
+    "group": "Esportes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/radio-esportes-brasilia"
+  },
   "Lamore Rock Show WebTV": {
     "stream_url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/21bae9dbda5e553dc0f618bd5bf36b3c.webp",
@@ -2411,17 +2381,23 @@
     "group": "Publicos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-assembleia-ms-tv-alms"
   },
-  "Radio Esportes Brasília": {
-    "stream_url": "https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed25aae6cd1cd562aff84aaaa01d6784.webp",
-    "group": "Esportes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/radio-esportes-brasilia"
+  "POA Streaming": {
+    "stream_url": "https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b111bf0c2e98660f9003b15bcbd59618.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/poa-streaming-tv"
   },
   "SOU TV": {
     "stream_url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ccd9ebfd88060e52bc576b22c4009639.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sou-tv"
+  },
+  "Rede Tv Mais": {
+    "stream_url": "https://video09.logicahost.com.br/redetvmais/redetvmais/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de5e2a5c9eef76effa75993a224b9e61.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-tv-mais"
   },
   "Web Tv Juventude": {
     "stream_url": "https://stmv1.srvif.com/valmirtv/valmirtv/playlist.m3u8",
@@ -2459,29 +2435,23 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-imprensa"
   },
+  "Fala Litoral WEB TV": {
+    "stream_url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f482da2bd0fadbff4843b5734ca1c9a.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/fala-litoral-web-tv"
+  },
   "Rede Sempre TV": {
     "stream_url": "https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4d78f92ebfd5f3e891c78714aae386e6.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-sempre-tv"
   },
-  "Rede Alfa": {
-    "stream_url": "https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3688abb4736fde8b0ab1e39f2b540899.webp",
+  "Web Tv e Radio Fonte Viva Gospel": {
+    "stream_url": "https://stmv1.liveplushd.com.br/webtvfontevivagospel/webtvfontevivagospel/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/050e40b4aa2bd249f7d595b14a388ca6.webp",
     "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-alfa"
-  },
-  "Tv Liberdade Pacajus": {
-    "stream_url": "https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3a52ba9e9fac75423d678ea2f9294f7.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-liberdade-pacajus"
-  },
-  "Fala Litoral WEB TV": {
-    "stream_url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f482da2bd0fadbff4843b5734ca1c9a.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/fala-litoral-web-tv"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-e-radio-fonte-viva-gospel"
   },
   "Tv Vargem": {
     "stream_url": "https://video01.brascast.com/marilia2344/marilia2344/playlist.m3u8",
@@ -2489,17 +2459,29 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-vargem"
   },
-  "Tv Educadora Batatais": {
-    "stream_url": "https://5a57bda70564a.streamlock.net/tveducadora/tveducadora.sdp/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/169f1167544b925fd0adc8562f7afd54.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-educadora-batatais"
+  "Rede Alfa": {
+    "stream_url": "https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3688abb4736fde8b0ab1e39f2b540899.webp",
+    "group": "Evangélica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-alfa"
   },
   "TV Caiuá": {
     "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2a7dd1fe3ceb32bc96eca80be642325a.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-caiua"
+  },
+  "Tv Educadora Batatais": {
+    "stream_url": "https://5a57bda70564a.streamlock.net/tveducadora/tveducadora.sdp/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/169f1167544b925fd0adc8562f7afd54.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-educadora-batatais"
+  },
+  "Tv Liberdade Pacajus": {
+    "stream_url": "https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3a52ba9e9fac75423d678ea2f9294f7.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-liberdade-pacajus"
   },
   "Catedral do Rock TV": {
     "stream_url": "https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8",
@@ -2513,23 +2495,11 @@
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/igreja-evangelica-cristo-vive"
   },
-  "Rede Premium Tv": {
-    "stream_url": "https://stmv2.samcast.com.br/leonardo9878/leonardo9878/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa0bcb9b633147b0f1e0d6f940c2260a.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-premium-tv"
-  },
   "Tv Zoom": {
     "stream_url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc219868ef198748764f83a44ca60eac.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-zoom"
-  },
-  "Tv Alpha": {
-    "stream_url": "https://video05.logicahost.com.br/tvalpha/tvalpha/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c6961a6067a40a40a23aa8689840c0e.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-alpha-botucatu"
   },
   "Web Tv Paraná": {
     "stream_url": "https://s1.tvr.ovh/video63135/video63135/playlist.m3u8",
@@ -2537,11 +2507,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-parana"
   },
-  "Web Tv e Radio Fonte Viva Gospel": {
-    "stream_url": "https://stmv1.liveplushd.com.br/webtvfontevivagospel/webtvfontevivagospel/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/050e40b4aa2bd249f7d595b14a388ca6.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-e-radio-fonte-viva-gospel"
+  "Rede SPTV": {
+    "stream_url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a028c26309735d904e33cedec1a011e6.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-sptv"
+  },
+  "Tv Alpha": {
+    "stream_url": "https://video05.logicahost.com.br/tvalpha/tvalpha/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c6961a6067a40a40a23aa8689840c0e.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-alpha-botucatu"
   },
   "TVitapê": {
     "stream_url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
@@ -2549,17 +2525,11 @@
     "group": "Educativos",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-itapetininga"
   },
-  "Rede SPTV": {
-    "stream_url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a028c26309735d904e33cedec1a011e6.webp",
+  "Rede Premium Tv": {
+    "stream_url": "https://stmv2.samcast.com.br/leonardo9878/leonardo9878/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa0bcb9b633147b0f1e0d6f940c2260a.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-sptv"
-  },
-  "Tv Ponta da Serra": {
-    "stream_url": "https://fenix.hubcloud.tv.br/PontadaSerra/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74c30ca0f593ef252241201869e525c5.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-ponta-da-serra"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-premium-tv"
   },
   "Tv Liberdade Bagé": {
     "stream_url": "https://video01.brascast.com/eberson6273/eberson6273/playlist.m3u8",
@@ -2567,17 +2537,17 @@
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-liberdade-bage-web"
   },
+  "Tv Ponta da Serra": {
+    "stream_url": "https://fenix.hubcloud.tv.br/PontadaSerra/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74c30ca0f593ef252241201869e525c5.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-ponta-da-serra"
+  },
   "STZ TV": {
     "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c0496338a7628318bbdf8916033af566.webp",
     "group": "Cultura",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/stz-tv"
-  },
-  "TVC Brasil de Notícias": {
-    "stream_url": "https://stmv1.srvif.com/tvcbrasil/tvcbrasil/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c0a5f035492c7d59612baa0c2c509c3.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvc-brasil-de-noticias"
   },
   "WTV Brasil": {
     "stream_url": "https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/playlist.m3u8",
@@ -2585,29 +2555,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/wtv-brasil"
   },
-  "TVC (TV Gazeta Araçatuba)": {
-    "stream_url": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96ceac2738299a42e825c821e6ef272.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvctvc-aracatuba"
-  },
   "7 TVS": {
     "stream_url": "https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/82b107fe290c6dc12c03ec758eb3f03d.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/7tvs-bh"
   },
-  "Tv Diversidade": {
-    "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12928/playlist/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2a4cb0756a0118014c94d9c4e0317c40.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-diversidade"
-  },
-  "TV Novos Horizontes": {
-    "stream_url": "https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3254cc8135be6689bae2fb77fc50df7a.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-novos-horizontes"
+  "TVC Brasil de Notícias": {
+    "stream_url": "https://stmv1.srvif.com/tvcbrasil/tvcbrasil/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c0a5f035492c7d59612baa0c2c509c3.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvc-brasil-de-noticias"
   },
   "Tv El-Shadai Salvador": {
     "stream_url": "https://stmv1.voxtvhd.com.br/8000/8000/playlist.m3u8",
@@ -2615,11 +2573,23 @@
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-el-shadai-salvador"
   },
-  "TV BRICS - Português": {
-    "stream_url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d2ac9ceedeebd16762d08118f9fc39ab.webp",
+  "Tv Diversidade": {
+    "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12928/playlist/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2a4cb0756a0118014c94d9c4e0317c40.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-brics"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-diversidade"
+  },
+  "TVC (TV Gazeta Araçatuba)": {
+    "stream_url": "https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96ceac2738299a42e825c821e6ef272.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvctvc-aracatuba"
+  },
+  "TV Novos Horizontes": {
+    "stream_url": "https://5a57bda70564a.streamlock.net/novosh/novosh.sdp/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3254cc8135be6689bae2fb77fc50df7a.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-novos-horizontes"
   },
   "Santa Cruz Web Tv": {
     "stream_url": "https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8",
@@ -2639,35 +2609,23 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/vivam-web-tv"
   },
-  "Tv Descalvado": {
-    "stream_url": "https://tvdescalvadosite.acessaradios.com.br/tvdescalvadosite/tvdescalvadosite.stream/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8123ee272391a835c94c4f45b142983.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-descalvado"
-  },
   "Lagoa TV": {
     "stream_url": "https://cdn-giovane959.ciclano.io:1443/giovane959/giovane959/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4626f7352019945c9e4bc2285aee490f.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/lagoa-tv"
   },
-  "América Tv": {
-    "stream_url": "https://americatv.com.br/proxy_stream.php?f=playlist%2Fplaylist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f60fc11965d5819ad98acbda3fc5a193.webp",
+  "Studio Max TV": {
+    "stream_url": "https://video11.logicahost.com.br/tvdopovo/tvdopovo/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d389c440d214908e3ed4865b08e76c33.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/america-tv-sp"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/studio-max-tv-rondonia"
   },
-  "POA Streaming": {
-    "stream_url": "https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b111bf0c2e98660f9003b15bcbd59618.webp",
+  "Tv Descalvado": {
+    "stream_url": "https://tvdescalvadosite.acessaradios.com.br/tvdescalvadosite/tvdescalvadosite.stream/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8123ee272391a835c94c4f45b142983.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/poa-streaming-tv"
-  },
-  "Tv Aldeia": {
-    "stream_url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/29a2d34a7175d55ebe0c3a98704cf3be.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-aldeia"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-descalvado"
   },
   "Rede Blitz Tv": {
     "stream_url": "https://video01.logicahost.com.br/redeblitz/redeblitz/playlist.m3u8",
@@ -2675,23 +2633,17 @@
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-blitz-tv"
   },
-  "TV Soteropolitana": {
-    "stream_url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd0cb19112f80ae4284913cb004767fb.webp",
+  "Tv Aldeia": {
+    "stream_url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/29a2d34a7175d55ebe0c3a98704cf3be.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-soteropolitana"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-aldeia"
   },
-  "Tv Votuline": {
-    "stream_url": "https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d1616ee681bc3419828472d8ccf4477c.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-votuline"
-  },
-  "TV Diário de Santa Maria": {
-    "stream_url": "https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/857bb91af6dbe74ca894f0a5b910864b.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-diario-de-santa-maria"
+  "TV BRICS - Português": {
+    "stream_url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d2ac9ceedeebd16762d08118f9fc39ab.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-brics"
   },
   "TV das Artes": {
     "stream_url": "https://stmv7.samcast.com.br/luca8510/luca8510/playlist.m3u8",
@@ -2699,23 +2651,41 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-das-artes"
   },
+  "TV Diário de Santa Maria": {
+    "stream_url": "https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/857bb91af6dbe74ca894f0a5b910864b.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-diario-de-santa-maria"
+  },
+  "TV Cinec": {
+    "stream_url": "https://video07.logicahost.com.br/tvcinec/tvcinec/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bc55440bcb62e9ab220e35470b1bc7b.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cinec"
+  },
+  "Tv Votuline": {
+    "stream_url": "https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d1616ee681bc3419828472d8ccf4477c.webp",
+    "group": "Evangélica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-votuline"
+  },
+  "TV Soteropolitana": {
+    "stream_url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd0cb19112f80ae4284913cb004767fb.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-soteropolitana"
+  },
+  "América Tv": {
+    "stream_url": "https://americatv.com.br/proxy_stream.php?f=playlist%2Fplaylist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f60fc11965d5819ad98acbda3fc5a193.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/america-tv-sp"
+  },
   "Plena Tv": {
     "stream_url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/32958c8ea3b43d234531796cd6b254d6.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/plena-tv"
-  },
-  "TVR SUL": {
-    "stream_url": "https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf002340b5696c7994425ad6b4c9e201.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvr-sul"
-  },
-  "Canal Plural": {
-    "stream_url": "https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e68afbd19480c30a542d435905e767c.webp",
-    "group": "Filmes",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-plural"
   },
   "TV ONIX": {
     "stream_url": "https://tv02.zas.media:1936/tvonix/tvonix/playlist.m3u8",
@@ -2723,11 +2693,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-onix"
   },
-  "Tv Todo Dia": {
-    "stream_url": "https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b987ac1cb5f4c258ef7510c412c592d8.webp",
+  "Canal Plural": {
+    "stream_url": "https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e68afbd19480c30a542d435905e767c.webp",
+    "group": "Filmes",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-plural"
+  },
+  "TVR SUL": {
+    "stream_url": "https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf002340b5696c7994425ad6b4c9e201.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-todo-dia"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvr-sul"
   },
   "IBMC TV": {
     "stream_url": "https://stmv1.srvstm.com/igreja9480/igreja9480/playlist.m3u8",
@@ -2735,11 +2711,17 @@
     "group": "Evangélica",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/ibmc-tv"
   },
-  "Unique TV": {
-    "stream_url": "https://pop2.uniquetv.com.br/hls/uniquetv.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/03dddf6f587a157a9de2639a9a1b71fd.webp",
+  "Tv Todo Dia": {
+    "stream_url": "https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b987ac1cb5f4c258ef7510c412c592d8.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/unique-tv"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-todo-dia"
+  },
+  "Tv Estilo": {
+    "stream_url": "https://stmv8.samcast.com.br/tvestilo/tvestilo/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/35e8e4388d626c8d78408238024867b4.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-estilo"
   },
   "Tv Liberdade Salvador": {
     "stream_url": "https://stmv1.srvif.com/washington/washington/playlist.m3u8",
@@ -2753,17 +2735,29 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/gen-tv"
   },
-  "Notícias Agrícolas": {
-    "stream_url": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc4bafac99f0014bd628f85263f5d1a0.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/noticias-agricolas"
-  },
   "Tv Metro (Rede Metropolitana)": {
     "stream_url": "https://srv1.zcast.com.br/metropolitanatv/metropolitanatv/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/49655e7e2ed98c26adc7833b62d16ffb.webp",
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-metro-rede-metropolitana"
+  },
+  "Unique TV": {
+    "stream_url": "https://pop2.uniquetv.com.br/hls/uniquetv.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/03dddf6f587a157a9de2639a9a1b71fd.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/unique-tv"
+  },
+  "Utv Londrina": {
+    "stream_url": "https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd13ec29c83df6ab5098f93661346760.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/utv-londrina"
+  },
+  "Notícias Agrícolas": {
+    "stream_url": "https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc4bafac99f0014bd628f85263f5d1a0.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/noticias-agricolas"
   },
   "Tv Geral": {
     "stream_url": "https://video05.logicahost.com.br/tvgeral/tvgeral/playlist.m3u8",
@@ -2771,29 +2765,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-geral-salvador"
   },
-  "RS TV": {
-    "stream_url": "https://video03.logicahost.com.br/rstv/rstv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/550ab422db9b21dbb89b3f3d223b3a18.webp",
-    "group": "Futebol",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rs-news-ppw"
-  },
   "Tv Sete Lagoas": {
     "stream_url": "https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d7fd8759b2598a188c00fd4980c4ceb.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sete-lagoas"
-  },
-  "Caraguá TV": {
-    "stream_url": "https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a866d989c5bdf80ebf3d8cc759d8e13b.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/caragua-tv"
-  },
-  "TV WTJMINAS": {
-    "stream_url": "https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9dfe5b5e040058ad579545aeae32fd53.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/wtj-tv-minas"
   },
   "TVAltoJequi": {
     "stream_url": "https://video08.logicahost.com.br/tvaltodojequi/tvaltodojequi/playlist.m3u8",
@@ -2807,23 +2783,29 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-erga-omnes"
   },
+  "RS TV": {
+    "stream_url": "https://video03.logicahost.com.br/rstv/rstv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/550ab422db9b21dbb89b3f3d223b3a18.webp",
+    "group": "Futebol",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rs-news-ppw"
+  },
+  "TV WTJMINAS": {
+    "stream_url": "https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9dfe5b5e040058ad579545aeae32fd53.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/wtj-tv-minas"
+  },
+  "Caraguá TV": {
+    "stream_url": "https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a866d989c5bdf80ebf3d8cc759d8e13b.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/caragua-tv"
+  },
   "Conecta Mais Web Tv": {
     "stream_url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/021892b11d9126ac3ab19f643cff0760.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/conecta-mais-web-tv"
-  },
-  "Tv Estilo": {
-    "stream_url": "https://stmv8.samcast.com.br/tvestilo/tvestilo/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/35e8e4388d626c8d78408238024867b4.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-estilo"
-  },
-  "Tv Rosa De Saron Alagoinhas": {
-    "stream_url": "https://stmv1.painelcast.com/rogerio9186/rogerio9186/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8358cee53f07e3d731a73f18e8d3479d.webp",
-    "group": "Evangélica",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-rosa-de-saron-alagoinhas"
   },
   "Terê Tv": {
     "stream_url": "https://video02.logicahost.com.br/canal11teretv/canal11teretv/playlist.m3u8",
@@ -2831,17 +2813,23 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tere-tv"
   },
+  "Tv Biguaçu": {
+    "stream_url": "https://video03.logicahost.com.br/biguawebtv/biguawebtv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6e9f3dc462bb84b05ffd1b7647180abc.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-biguacu"
+  },
   "Rede Sdp TV": {
     "stream_url": "https://video01.brascast.com/rede8652/rede8652/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9c715d406bf3e1e4e700fe0a66410b7e.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-sdp-tv"
   },
-  "Tv Biguaçu": {
-    "stream_url": "https://video03.logicahost.com.br/biguawebtv/biguawebtv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6e9f3dc462bb84b05ffd1b7647180abc.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-biguacu"
+  "Tv Rosa De Saron Alagoinhas": {
+    "stream_url": "https://stmv1.painelcast.com/rogerio9186/rogerio9186/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8358cee53f07e3d731a73f18e8d3479d.webp",
+    "group": "Evangélica",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-rosa-de-saron-alagoinhas"
   },
   "Web Tv Triangulo": {
     "stream_url": "https://tv02.zas.media:1936/triangulo/triangulo/playlist.m3u8",
@@ -2849,17 +2837,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-triangulo"
   },
-  "Cultne Tv": {
-    "stream_url": "https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e0830b63fdd557dcf3f8c22cc3010017.webp",
-    "group": "Cultura",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/cultne-tv"
-  },
-  "TV Produto": {
-    "stream_url": "https://video05.logicahost.com.br/tvprodutobrasil/tvprodutobrasil/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b07c40a574892ebb034ca299a677051.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-produto"
+  "Tv Camara Jacareí": {
+    "stream_url": "https://video09.logicahost.com.br/camarajacarei/camarajacarei/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dae4a2770e47648b1e56cccb96783511.webp",
+    "group": "Publicos",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-camara-jacarei"
   },
   "TV Cacique": {
     "stream_url": "https://stmv8.samcast.com.br/pedro9687/pedro9687/playlist.m3u8",
@@ -2867,29 +2849,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cacique"
   },
-  "Tv Camara Jacareí": {
-    "stream_url": "https://video09.logicahost.com.br/camarajacarei/camarajacarei/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dae4a2770e47648b1e56cccb96783511.webp",
-    "group": "Publicos",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-camara-jacarei"
-  },
-  "40 Graus Tv": {
-    "stream_url": "https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/94fa4a0f6806df5d663cf9000e368076.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/40-graus-tv"
-  },
-  "VV8 TV": {
-    "stream_url": "https://video01.brascast.com/seap8272/seap8272/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f191b14472340c75269a73df4381c9ba.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/vv8-tv"
-  },
-  "OV TV": {
-    "stream_url": "https://video04.logicahost.com.br/centroserratv/centroserratv/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5ce1658a3dd8162f3d8232c44ed0f01f.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/ov-tv"
+  "TV Produto": {
+    "stream_url": "https://video05.logicahost.com.br/tvprodutobrasil/tvprodutobrasil/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b07c40a574892ebb034ca299a677051.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-produto"
   },
   "Tv Atitude New": {
     "stream_url": "https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8",
@@ -2903,11 +2867,41 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-educadora-de-limeira"
   },
+  "OV TV": {
+    "stream_url": "https://video04.logicahost.com.br/centroserratv/centroserratv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5ce1658a3dd8162f3d8232c44ed0f01f.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/ov-tv"
+  },
+  "Cultne Tv": {
+    "stream_url": "https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e0830b63fdd557dcf3f8c22cc3010017.webp",
+    "group": "Cultura",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/cultne-tv"
+  },
+  "VV8 TV": {
+    "stream_url": "https://video01.brascast.com/seap8272/seap8272/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f191b14472340c75269a73df4381c9ba.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/vv8-tv"
+  },
+  "40 Graus Tv": {
+    "stream_url": "https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/94fa4a0f6806df5d663cf9000e368076.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/40-graus-tv"
+  },
   "Tv Hortolândia": {
     "stream_url": "https://s1.tvr.ovh/video83070/video83070/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/027a83608c52be4d2bc39aa74a7c5edc.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-hortolandia"
+  },
+  "Tribuna Regional Web Tv": {
+    "stream_url": "https://stmv7.samcast.com.br/fabiorogerio2745/fabiorogerio2745/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bbcb82ee8d099a445d3721fdce02c6c.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tribuna-regional-web-tv"
   },
   "Studio TV": {
     "stream_url": "https://streamingtv.ddoti.com.br/streamlocal/stream.m3u8",
@@ -2921,17 +2915,23 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-sosite"
   },
+  "Chroma Tv": {
+    "stream_url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25a1279e13584a0f60c0b4e063ee5bc1.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/chroma-tv"
+  },
   "Tv Interlagos": {
     "stream_url": "https://stmv1.paineldevideo.com.br/tvinterlagos/tvinterlagos/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e8269a6470b946930b06615d0b1470d.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-interlagos"
   },
-  "Chroma Tv": {
-    "stream_url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25a1279e13584a0f60c0b4e063ee5bc1.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/chroma-tv"
+  "Tv Estudio Sertaneja": {
+    "stream_url": "https://tv02.zas.media:1936/alvoradasertaneja/alvoradasertaneja/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a014611b55415f6fd5b9c380ab851536.webp",
+    "group": "Música",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-estudio-sertaneja"
   },
   "Três Passos TV": {
     "stream_url": "https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/playlist.m3u8",
@@ -2945,23 +2945,11 @@
     "group": "Notícias",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/leouve-tv"
   },
-  "Tribuna Regional Web Tv": {
-    "stream_url": "https://stmv7.samcast.com.br/fabiorogerio2745/fabiorogerio2745/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bbcb82ee8d099a445d3721fdce02c6c.webp",
+  "Canal Ricos": {
+    "stream_url": "https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f8a3fa9e42936215fde3bd04bb0f35a6.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tribuna-regional-web-tv"
-  },
-  "Tv Estudio Sertaneja": {
-    "stream_url": "https://tv02.zas.media:1936/alvoradasertaneja/alvoradasertaneja/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a014611b55415f6fd5b9c380ab851536.webp",
-    "group": "Música",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-estudio-sertaneja"
-  },
-  "SDS de Valença": {
-    "stream_url": "https://video05.logicahost.com.br/rtvsdsvalenca/rtvsdsvalenca/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/24614bd212a31b3f4fef35bcc6496d7f.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sds-de-valenca"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-ricos"
   },
   "Oriundi Tv": {
     "stream_url": "https://stmv5.samcast.com.br/oriunditv/oriunditv/playlist.m3u8",
@@ -2975,11 +2963,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvc"
   },
-  "Canal Ricos": {
-    "stream_url": "https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f8a3fa9e42936215fde3bd04bb0f35a6.webp",
+  "SDS de Valença": {
+    "stream_url": "https://video05.logicahost.com.br/rtvsdsvalenca/rtvsdsvalenca/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/24614bd212a31b3f4fef35bcc6496d7f.webp",
     "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-ricos"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/sds-de-valenca"
   },
   "Tv Oitava": {
     "stream_url": "https://video05.logicahost.com.br/tvoitava/tvoitava/playlist.m3u8",
@@ -2992,6 +2980,18 @@
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b452dd39e4ab9787fc4c0eb8ba651112.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/petlovers-tv"
+  },
+  "Canal 10 Fernandopolis": {
+    "stream_url": "https://canaldez.acessaradios.com.br/canaldez/canaldez/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f677002ac37c9ece11d689b0040f300d.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-10-fernandopolis"
+  },
+  "Elytv": {
+    "stream_url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ccf2a020e1c503b30a1d990f676d4282.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/elytv"
   },
   "Empire": {
     "stream_url": "https://5c483b9d1019c.streamlock.net/empiremagazine/empiremagazine/playlist.m3u8",
@@ -3023,11 +3023,11 @@
     "group": "Esportes",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/fc-web-tv"
   },
-  "Ribeirão Web News": {
-    "stream_url": "https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ba48d84e5076cf8729af192d3cf71229.webp",
-    "group": "Notícias",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/ribeirao-web-news"
+  "O Fato Maringá": {
+    "stream_url": "https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0f7f66ac898e3b5126a87e3e5e405319.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/o-fato-maringa"
   },
   "Tv Opinião Play": {
     "stream_url": "https://video04.logicahost.com.br/tvpopular/tvpopular/playlist.m3u8",
@@ -3035,23 +3035,17 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-opiniao-play"
   },
-  "O Fato Maringá": {
-    "stream_url": "https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0f7f66ac898e3b5126a87e3e5e405319.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/o-fato-maringa"
+  "Ribeirão Web News": {
+    "stream_url": "https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ba48d84e5076cf8729af192d3cf71229.webp",
+    "group": "Notícias",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/ribeirao-web-news"
   },
   "Natureza Fm": {
     "stream_url": "https://tv02.zas.media:1936/natureza/natureza/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ff268baabc67fc64ef3ccbb9ea8a4c5.webp",
     "group": "Música",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/natureza-fm"
-  },
-  "TV Grande Rede": {
-    "stream_url": "https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunklist_w1124761307.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/55992a7e12da3eb07a01b73414a6dbfb.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-grande-rede"
   },
   "Tv Nova Familia": {
     "stream_url": "https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8",
@@ -3071,29 +3065,11 @@
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-cidade-catanduva"
   },
-  "FM TV": {
-    "stream_url": "https://video08.logicahost.com.br/fmtvbr/fmtvbr/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3b3470710001abbd0f526250561a2e03.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/fm-tv"
-  },
   "Líder FM Ubá": {
     "stream_url": "https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d2cd7e1152bb5fd0dbb58d7de193b613.webp",
     "group": "Estúdios de rádio",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/lider-fm-uba"
-  },
-  "Tv Espírita Do Paraná": {
-    "stream_url": "https://stmv.webtvninjas.com.br/rodney5548/rodney5548/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3b600878cd0711a5417b2e0b2162a451.webp",
-    "group": "Geral",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-espirita-do-parana"
-  },
-  "TVC Jau": {
-    "stream_url": "https://cdn.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f6a708a4cc0ff47d29f12c6e37964fad.webp",
-    "group": "Variedades",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvc-jau"
   },
   "Portal Jaguaruna": {
     "stream_url": "https://video04.logicahost.com.br/tvportal/tvportal/playlist.m3u8",
@@ -3101,17 +3077,29 @@
     "group": "Trânsito",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/portal-jaguaruna"
   },
-  "Filmelier TV": {
-    "stream_url": "https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb56bafc9a09ea999dcb21ab523b4f5f.webp",
-    "group": "Fora do ar",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/filmelier-tv"
+  "TVC Jau": {
+    "stream_url": "https://cdn.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f6a708a4cc0ff47d29f12c6e37964fad.webp",
+    "group": "Variedades",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tvc-jau"
+  },
+  "Tv Espírita Do Paraná": {
+    "stream_url": "https://stmv.webtvninjas.com.br/rodney5548/rodney5548/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3b600878cd0711a5417b2e0b2162a451.webp",
+    "group": "Geral",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-espirita-do-parana"
   },
   "TV Litoral RN": {
     "stream_url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8",
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da94daf7b294cebba2d7a9dfafa41a09.webp",
     "group": "Fora do ar",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-litoral-rn"
+  },
+  "Filmelier TV": {
+    "stream_url": "https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb56bafc9a09ea999dcb21ab523b4f5f.webp",
+    "group": "Fora do ar",
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/filmelier-tv"
   },
   "TV Potengi": {
     "stream_url": "https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8",
@@ -3124,12 +3112,6 @@
     "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de9df0389453f24ee04b4b3fd561e018.webp",
     "group": "Variedades",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-missao"
-  },
-  "Canal Curta!": {
-    "stream_url": "https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72dfb2cbf8642b7bdac713efc416b5b6.webp",
-    "group": "Fora do ar",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-curta"
   },
   "Campos Web Tv": {
     "stream_url": "https://camposwebtv.com/hls/live/camposwebtv/index.m3u8",
@@ -3155,11 +3137,11 @@
     "group": "Fora do ar",
     "page_url": "https://www.cxtv.com.br/tv-ao-vivo/rede-sulamerica-tv"
   },
-  "TV Metrópole": {
-    "stream_url": "https://video01.logicahost.com.br/tvmetropole/tvmetropole/playlist.m3u8",
-    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6598fcc9b0153916209adbd6b39af5ab.webp",
+  "Canal Curta!": {
+    "stream_url": "https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72dfb2cbf8642b7bdac713efc416b5b6.webp",
     "group": "Fora do ar",
-    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/tv-metropole-ourinhos"
+    "page_url": "https://www.cxtv.com.br/tv-ao-vivo/canal-curta"
   },
   "Tv Planalto Norte": {
     "stream_url": "https://pop.uniquetv.com.br/tvplanaltonorte/index.fmp4.m3u8",
