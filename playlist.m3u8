@@ -55,6 +55,8 @@ https://tv01.zas.media:1936/redesuper/redesuper/playlist.m3u8
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="Evangélica",TV Igreja Mundial do Poder de Deus - IMPD TV
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf64a6c1f59709514cf0d763b6c0faa6.webp" group-title="Evangélica",TV Rede Gospel
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c7cb5e3fd63664c893aeca217712b07.webp" group-title="Evangélica",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac834a189809106bcd9593bfa5269e47.webp" group-title="Filmes",CHANNEL 1
