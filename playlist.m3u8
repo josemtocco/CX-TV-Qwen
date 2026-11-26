@@ -51,6 +51,8 @@ https://stream.ecast.com.br/rit-tv/index.m3u8
 https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a7bcc803390b08473d347197729c75b1.webp" group-title="Evangélica",Rede Super
 https://tv01.zas.media:1936/redesuper/redesuper/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f333f62031ea09120c0612d302fe366c.webp" group-title="Evangélica",TV Feliz
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="Evangélica",TV Igreja Mundial do Poder de Deus - IMPD TV
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf64a6c1f59709514cf0d763b6c0faa6.webp" group-title="Evangélica",TV Rede Gospel
@@ -121,6 +123,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="Notícias",Rede Brasil de Televisão
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e77ec3ec8016c9fd59aead82a6eca6db.webp" group-title="Notícias",RedeTV Paraná
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp" group-title="Notícias",RedeTV!
 https://stream.esemrede.com.br/live/redetves.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc174cca08ed6deddcd11082f0834a5a.webp" group-title="Notícias",SBT News
@@ -131,8 +135,6 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71b0f9abc764972773cad092b8610c03.webp" group-title="Notícias",TV Capital
 https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2afc3b483887faa74817c62ee6b8d67.webp" group-title="Notícias",TV Conquista (Rede Record)
-https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp" group-title="Notícias",TV Jovem Pan News
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b68ceee26212c27dca7a885602969d9c.webp" group-title="Notícias",TVCI
@@ -161,6 +163,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2af74260c1c0377e7626a196192a5236.webp" group-title="Variedades",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb11c7b420ed0d82de6c3403ee72f3d9.webp" group-title="Variedades",TV Metropole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="Variedades",TV ONE
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d4c57d1d109372f3fac1e91b0a0f7086.webp" group-title="Variedades",TV Sonata
